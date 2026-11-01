@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400;500;600;700&family=Noto+Naskh+Arabic:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#1d2a24; --deep:#123527; --gold:#a8842c; --paper:#f7f1e3; --line:#c9b98a;
+  }
+  *{margin:0;padding:0;box-sizing:border-box;}
+  @page{size:A4;margin:0;}
+  body{
+    font-family:"Noto Naskh Arabic","Noto Nastaliq Urdu",serif;
+    color:var(--ink); background:var(--paper); width:210mm;
+  }
+  .page{width:210mm;min-height:297mm;padding:10mm 9mm;position:relative;background:
+    linear-gradient(0deg, rgba(168,132,44,.035) 1px, transparent 1px) 0 0/100% 8mm, var(--paper);
+    page-break-after:always;display:flex;flex-direction:column;}
+  .page:last-child{page-break-after:auto;}
+
+  /* ===== masthead ===== */
+  .masthead{border:2.5px double var(--deep);border-radius:6px;padding:5mm 6mm 3mm;text-align:center;background:#fbf7ec;}
+  .kicker{font-size:9.5px;color:var(--deep);letter-spacing:.5px;display:flex;justify-content:space-between;font-weight:600;}
+  .name{font-family:"Noto Nastaliq Urdu";font-weight:700;font-size:44px;line-height:1.75;color:var(--deep);
+    text-shadow:0 1px 0 rgba(168,132,44,.25);}
+  .tagline{font-family:"Noto Nastaliq Urdu";font-size:11px;color:#6b5b32;line-height:2;}
+  .rule{height:2px;background:linear-gradient(90deg,transparent,var(--gold),transparent);margin:2mm 0 1mm;}
+  .meta{display:flex;justify-content:space-between;font-size:9px;color:#5c523c;border-top:1px solid var(--line);
+    border-bottom:1px solid var(--line);padding:1.2mm 1mm;margin-top:1.5mm;}
+
+  /* ===== headline ===== */
+  .lead{display:grid;grid-template-columns:1.25fr .95fr;gap:4mm;margin-top:4mm;}
+  .lead-main{border:1px solid var(--line);border-radius:6px;padding:4mm;background:#fdfaf1;}
+  .hl{font-family:"Noto Nastaliq Urdu";font-weight:700;font-size:20.5px;line-height:2.1;color:var(--deep);
+    border-bottom:1.5px solid var(--gold);padding-bottom:1.5mm;margin-bottom:2mm;}
+  .sub{font-family:"Noto Nastaliq Urdu";font-size:11.5px;color:#7a6a3a;line-height:2.1;margin-bottom:2mm;}
+  p.body{font-size:11.5px;line-height:2.15;text-align:justify;text-justify:inter-word;}
+  p.body + p.body{margin-top:1.5mm;}
+  .drop::first-letter{font-size:200%;color:var(--deep);font-weight:700;}
+
+  .side{border:1px solid var(--line);border-radius:6px;padding:4mm;background:#f2ecda;display:flex;flex-direction:column;}
+  .side .box-title{font-family:"Noto Nastaliq Urdu";font-weight:700;font-size:14px;color:#fff;background:var(--deep);
+    border-radius:4px;text-align:center;padding:.5mm 0 1.5mm;line-height:2;margin-bottom:2.5mm;}
+  .sher{font-family:"Noto Nastaliq Urdu";font-size:15.5px;line-height:2.6;text-align:center;color:var(--ink);flex:1;
+    display:flex;flex-direction:column;justify-content:center;}
+  .sher .misra{white-space:nowrap;}
+  .sher .poet{font-size:11px;color:var(--gold);border-top:1px dashed var(--gold);padding-top:1.5mm;margin-top:2mm;}
+  .word{margin-top:3mm;border-top:1px dashed var(--line);padding-top:2mm;}
+  .word b{color:var(--deep);font-size:13.5px;}
+  .word .en{font-family:"Playfair Display";direction:ltr;font-size:9px;color:#8a7a4a;}
+
+  /* ===== columns ===== */
+  .cols-head{display:flex;align-items:center;gap:3mm;margin:4mm 0 2.5mm;}
+  .cols-head .t{font-family:"Noto Nastaliq Urdu";font-weight:700;font-size:16px;color:var(--deep);white-space:nowrap;}
+  .cols-head .l{flex:1;height:1.5px;background:linear-gradient(90deg,var(--gold),transparent);}
+  .threecol{column-count:3;column-gap:5mm;column-rule:1px solid var(--line);}
+  .colitem{break-inside:avoid;margin-bottom:3mm;}
+  .colitem h4{font-family:"Noto Nastaliq Urdu";font-size:12.5px;color:var(--deep);line-height:2;margin-bottom:.5mm;}
+  .colitem .tag{display:inline-block;font-size:8.5px;color:#fff;background:var(--gold);border-radius:3px;padding:.2mm 2mm .8mm;margin-bottom:1mm;}
+
+  /* ===== footer ===== */
+  .foot{margin-top:auto;border-top:2px solid var(--deep);padding-top:2mm;display:flex;justify-content:space-between;
+    font-size:9px;color:#5c523c;}
+  .pageno{font-family:"Playfair Display";direction:ltr;}
+  .books{display:grid;grid-template-columns:repeat(3,1fr);gap:3.5mm;margin-top:1mm;}
+  .book{border:1px solid var(--line);border-radius:6px;background:#fdfaf1;padding:3mm;text-align:center;}
+  .book .cov{height:34mm;border-radius:3px;background:linear-gradient(160deg,var(--deep),#1e4d38);color:#f3e9c8;
+    display:flex;align-items:center;justify-content:center;font-family:"Noto Nastaliq Urdu";font-size:12px;line-height:2.2;padding:2mm;}
+  .book h5{font-family:"Noto Nastaliq Urdu";font-size:11.5px;color:var(--deep);margin-top:1.5mm;line-height:2;}
+  .book span{font-size:9px;color:#6b5b32;}
+  .notice{border:1.5px solid var(--gold);border-radius:6px;background:#fbf3dc;padding:3mm 4mm;margin-top:4mm;}
+  .notice h4{font-family:"Noto Nastaliq Urdu";color:var(--deep);font-size:13.5px;margin-bottom:1mm;line-height:2;}
+  .notice p{font-size:10.5px;line-height:2.05;text-align:justify;}
+</style>
+</head>
+<body>
+
+<!-- ================= PAGE 1 ================= -->
+<div class="page">
+  <div class="masthead">
+    <div class="kicker"><span>ہفتہ وار ادبی شمارہ</span><span>پیامِ ادب — ڈیجیٹل اردو ادارہ</span></div>
+    <div class="name">پیامِ ادب</div>
+    <div class="tagline">اردو ادب کا ڈیجیٹل سرمایہ — فروغ، تحفظ اور اشاعت کا جدید پلیٹ فارم</div>
+    <div class="rule"></div>
+    <div class="meta">
+      <span>شمارہ نمبر: ۱</span>
+      <span>سال اول</span>
+      <span>قیمت: مفت آن لائن</span>
+      <span>صفحات: ۲</span>
+    </div>
+  </div>
+
+  <div class="lead">
+    <div class="lead-main">
+      <div class="hl">اردو ادب کی ڈیجیٹل اشاعت: نئے دور کے تقاضے اور نئی نسل کی ذمہ داری</div>
+      <div class="sub">ادب روایات کا وارث ہے، مگر اشاعت کے ذرائع وقت کے ساتھ بدلتے رہتے ہیں۔ آج جب پڑھائی اور مطالعہ موبائل اسکرین تک آ چکا ہے تو اردو ادب کا ڈیجیٹل سرمایہ تیار کرنا محض انتخاب نہیں، ضرورت بن چکا ہے۔</div>
+      <p class="body drop">اردو زبان نے تین صدیوں سے زائد عرصے میں وہ ادبی سرمایہ پایا جس کی مثال دنیا کی دیگر زبانوں میں کم ملتی ہے۔ مرزا غالبؔ کے خطوط ہوں یا میرؔ کے اشعار، اقبالؔ کی خودی ہو یا فیضؔ کی امنگوں کی فہرست، ہر دور میں اردو نے اپنے قاری کو نئی سوچ اور نئی لہجہ فراہم کیا۔ مگر سوال یہ ہے کہ کیا وہ سرمایہ آج کے قاری تک پہنچ رہا ہے؟</p>
+      <p class="body">ڈیجیٹل اشاعت اس سوال کا ممکنہ جواب ہے۔ آن لائن کتب خانہ، الیکٹرانی اخبار اور ادبی ویب سائٹس نہ صرف فاصلوں کو ختم کرتی ہیں بلکہ پرانے اور نایاب مواد کو محفوظ بھی کرتی ہیں۔ ضرورت اس امر کی ہے کہ یہ کام معیار اور تحقیقی اصولوں کے ساتھ ہو، تاکہ آنے والی نسلیں درست اور بھروسے کے قابل مواد سے استفادہ کر سکیں۔ اداروں، تعلیمی حلقوں اور نئے لکھنے والوں کے باہمی تعاون ہی سے یہ مقصد حاصل ہو سکتا ہے۔</p>
+    </div>
+
+    <div class="side">
+      <div class="box-title">آج کا شعر</div>
+      <div class="sher">
+        <div class="misra">ہزاروں خواہشیں ایسی کہ ہر خواہش پہ دم نکلے</div>
+        <div class="misra">بہت نکلے مرے ارمان لیکن پھر بھی کم نکلے</div>
+        <div class="poet">— مرزا غالبؔ</div>
+      </div>
+      <div class="word">
+        <b>آج کا لفظ: مشاقبت</b>
+        <div class="body">مشقت اور محنت کے معنوں میں مستعمل۔ اردو کا اصیل لفظ جو ادبی بحثوں میں "مشاقبتِ کلام" کی صورت ملنے والا ہے۔</div>
+        <div class="en">English: hard work, painstaking effort</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="cols-head"><span class="t">ادبی خبریں</span><span class="l"></span></div>
+  <div class="threecol">
+    <div class="colitem"><span class="tag">اعلان</span>
+      <h4>ادبی مقابلہ: غزل نگاری</h4>
+      <p class="body">پیامِ ادب نے نئے شاعروں کے لیے غزل نگاری کا مقابلہ شروع کیا ہے۔ شرکاء اپنی غزلیں ویب سائٹ کے ذریعے بھیج سکتے ہیں۔ منتخب تحریریں اخبار میں شائع ہوں گی۔</p>
+    </div>
+    <div class="colitem"><span class="tag">تقریب</span>
+      <h4>مشاعرہ: روایت سے نئی نسل تک</h4>
+      <p class="body">معاصر شاعری کے فروغ کے لیے ایک آن لائن مشاعرہ منصوبہ بندی کے مرحلے میں ہے، جس میں نئے اور تجربہ کار شاعر ایک ساتھ شرکت کریں گے۔</p>
+    </div>
+    <div class="colitem"><span class="tag">کتب خانہ</span>
+      <h4>ڈیجیٹل کتب خانہ میں اضافہ</h4>
+      <p class="body">کلاسیکی اردو کتابوں کا آن لائن ذخیرہ مسلسل بڑھایا جا رہا ہے۔ قارئین کتب کو سائٹ کے اندر ہی پڑھ سکتے ہیں، الگ ڈاؤن لوڈ کی ضرورت نہیں۔</p>
+    </div>
+  </div>
+
+  <div class="foot">
+    <span>چیف ایڈیٹر و ایڈمن: پیامِ ادب ادارتی بورڈ</span>
+    <span>پیامِ ادب — اردو ادب، روایت سے نئی نسل تک</span>
+    <span class="pageno">Page 1</span>
+  </div>
+</div>
+
+<!-- ================= PAGE 2 ================= -->
+<div class="page">
+  <div class="cols-head" style="margin-top:0"><span class="t">کتب خانہ — نئی کتابیں</span><span class="l"></span></div>
+  <div class="books">
+    <div class="book"><div class="cov">دیوانِ غالبؔ</div><h5>دیوانِ غالب</h5><span>مرزا اسد اللہ خان غالب</span></div>
+    <div class="book"><div class="cov">بانگِ درا</div><h5>بانگِ درا</h5><span>علامہ محمد اقبالؔ</span></div>
+    <div class="book"><div class="cov">نالۂ یار</div><h5>کلیاتِ میرؔ</h5><span>میر تقی میرؔ</span></div>
+  </div>
+
+  <div class="cols-head"><span class="t">خاص مضامین</span><span class="l"></span></div>
+  <div class="threecol">
+    <div class="colitem">
+      <h4>غالبؔ کی غزل: فنی و فکری جہات</h4>
+      <p class="body">غالبؔ کی غزل اپنے عہد کی روایت سے ہٹ کر ایک نیا لہجہ لے کر آئی۔ ان کے ہاں محبوب صرف حسن کا معاملہ نہیں بلکہ فکر و شعور کا ذریعہ بن جاتا ہے۔ "دلِ ناداں تجھے ہوا کیا ہے" جیسے اشعار میں انسانی نفس کی تشریح اپنی مثال آپ ہے۔</p>
+    </div>
+    <div class="colitem">
+      <h4>نئی نسل اور اردو زبان</h4>
+      <p class="body">سوال یہ نہیں کہ نئی نسل اردو پڑھتی ہے یا نہیں، سوال یہ ہے کہ ہم نے ان کے سامنے اردو کو کس روپ میں رکھا ہے۔ اگر مواد معیاری، آسان رسائی اور جدید ڈیزائن کے ساتھ موجود ہو تو قاری خود اس کی طرف کھنچتا ہے۔</p>
+    </div>
+    <div class="colitem">
+      <h4>قافیہ اور تقطیع: شاعری کے اوزار</h4>
+      <p class="body">اردو شاعری کی تربیت میں قافیے اور تقطیع کا علم بنیادی حیثیت رکھتا ہے۔ جدید اوزار اس مشکل علم کو سادہ بناتے ہیں، مگر ان کے ساتھ کلاسیکی متون کا مطالعہ ضروری ہے تاکہ اصلاح برقرار رہے۔</p>
+    </div>
+  </div>
+
+  <div class="notice">
+    <h4>تحریر بھیجیں — اپنی آواز، ہمارا صفحہ</h4>
+    <p>پیامِ ادب نئے لکھنے والوں کو خوش آمدید کہتا ہے۔ شاعری، مضامین، تحقیقی نوٹ اور تنقیدی تحریریں ویب سائٹ کے "تحریر بھیجیں" صفحے کے ذریعے جمع کرائی جا سکتی ہیں۔ تمام تحریریں ادارتی معائنے کے بعد شائع کی جاتی ہیں۔ تحریر اصل ہونی چاہیے اور کسی اور کی تحریر کا نقل نہ ہو۔</p>
+  </div>
+
+  <div class="foot">
+    <span>پیامِ ادب — ڈیجیٹل اخبار</span>
+    <span>پتہ: it is an online publication — پیامِ ادب ڈاٹ کام</span>
+    <span class="pageno">Page 2</span>
+  </div>
+</div>
+
+</body>
+</html>

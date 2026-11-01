@@ -1,0 +1,92 @@
+[
+  {
+    "id": "jameel-noori-nastaleeq",
+    "name": "Jameel Noori Nastaleeq",
+    "urdu": "جیمیل نوری نستعلیق",
+    "file": "/fonts/JameelNooriNastaleeq.ttf",
+    "format": "ttf",
+    "available": true,
+    "note": "Official full TTF (10.5 MB), mirrored from open-source distribution."
+  },
+  {
+    "id": "faiz-lahori-nastaleeq",
+    "name": "Faiz Lahori Nastaleeq",
+    "urdu": "فیض لاہوری نستعلیق",
+    "file": "/fonts/FaizLahoriNastaleeq.ttf",
+    "format": "ttf",
+    "available": true,
+    "note": "Official full TTF (37.7 MB), Internet Archive copy."
+  },
+  {
+    "id": "alvi-nastaleeq",
+    "name": "Alvi Nastaleeq Regular",
+    "urdu": "علوی نستعلیق",
+    "file": "/fonts/AlviNastaleeq.ttf",
+    "format": "ttf",
+    "available": true,
+    "note": "Official TTF (9.3 MB) by Amjad Hussain Alvi (also distributed as Alvi Lahori)."
+  },
+  {
+    "id": "jameel-noori-kasheeda",
+    "name": "Jameel Noori Nastaleeq Kasheeda",
+    "urdu": "جیمیل نوری نستعلیق کشیدہ",
+    "file": "/fonts/JameelNooriNastaleeqKasheeda.ttf",
+    "format": "ttf",
+    "available": true,
+    "note": "Official Kasheeda variant TTF (12.9 MB)."
+  },
+  {
+    "id": "noto-nastaliq-urdu",
+    "name": "Noto Nastaliq Urdu",
+    "urdu": "نوٹو نستعلیق اردو",
+    "file": "/fonts/NotoNastaliqUrdu.ttf",
+    "format": "ttf",
+    "available": true,
+    "note": "SIL OFL, Google Noto variable font. Also loaded via Google Fonts as fallback."
+  },
+  {
+    "id": "alqalam-taj-nastaleeq",
+    "name": "AlQalam Taj Nastaleeq Regular",
+    "urdu": "القلم تاج نستعلیق",
+    "file": "/fonts/AlQalamTajNastaleeq.woff2",
+    "format": "woff2",
+    "available": true,
+    "note": "Official woff2 (3.7 MB) from the AlQalam web-font package."
+  },
+  {
+    "id": "aa-sameer-sagar-nastaleeq",
+    "name": "AA Sameer Sagar Nastaleeq",
+    "urdu": "ای اے سمیر ساگر نستعلیق",
+    "file": "/fonts/AASameerSagarNastaleeq.ttf",
+    "format": "ttf",
+    "available": false,
+    "note": "MISSING ASSET — no legally embeddable file could be sourced from open repositories (download portals are license-gated). Provide a licensed TTF at public/fonts/AASameerSagarNastaleeq.ttf to enable it."
+  },
+  {
+    "id": "alqalam-alvi-nastaleeq",
+    "name": "AlQalam Alvi Nastaleeq",
+    "urdu": "القلم علوی نستعلیق",
+    "file": "/fonts/AlQalamAlviNastaleeq.ttf",
+    "format": "ttf",
+    "available": false,
+    "note": "MISSING ASSET — no legally embeddable file could be sourced from open repositories. Provide a licensed TTF at public/fonts/AlQalamAlviNastaleeq.ttf to enable it."
+  },
+  {
+    "id": "mehr-nastaliq-web",
+    "name": "Mehr Nastaliq Web",
+    "urdu": "مہر نستعلیق ویب",
+    "file": "/fonts/MehrNastaliqWeb.ttf",
+    "format": "ttf",
+    "available": true,
+    "note": "Official web-optimized TTF (130 KB) by Zeeshan Nasar / Nasrullah Mehr."
+  },
+  {
+    "id": "nafees-web-naskh",
+    "name": "PDMS Nafees Web Naskh",
+    "urdu": "نفیس ویب نسخ",
+    "file": "/fonts/NafeesWebNaskh.ttf",
+    "format": "ttf",
+    "available": true,
+    "note": "CRULP Nafees Web Naskh (123 KB), open-license Unicode Naskh."
+  }
+]

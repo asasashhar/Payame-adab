@@ -1,0 +1,3023 @@
+# SARMAYA-E-ADAB
+## سرمائے ادب
+### Complete Urdu Literary, Cultural & Digital Publishing Platform
+
+Build a complete, premium, modern and highly professional Urdu literary website named:
+
+**سرمائے ادب**  
+**Sarmaya-e-Adab**
+
+### Main Purpose
+
+The primary mission of Sarmaya-e-Adab is to promote, preserve, publish and digitally advance Urdu language and literature.
+
+The platform should bring together:
+
+- Urdu poetry
+- Urdu prose
+- Articles
+- Research
+- Literary criticism
+- Digital books
+- Urdu newspaper / e-paper
+- Poets and writers
+- Literary events
+- Competitions
+- User submissions
+- Urdu learning resources
+- Urdu dictionary
+- Literary archive
+- Community features
+- Digital publishing
+
+This should not look like a simple blog. It should feel like a serious, trustworthy and academically valuable **digital Urdu literary institution**.
+
+---
+
+# 1. BRAND IDENTITY
+
+### Website Name
+**سرمائے ادب**
+
+### English Name
+**Sarmaya-e-Adab**
+
+### Suggested Tagline
+**اردو ادب کا ڈیجیٹل سرمایہ**
+
+Alternative tagline:
+
+**اردو زبان و ادب کے فروغ، تحفظ اور اشاعت کا جدید پلیٹ فارم**
+
+Use elegant Urdu typography throughout the brand.
+
+The visual identity should combine:
+
+- Classical Urdu literary aesthetics
+- Modern digital design
+- Academic credibility
+- Premium publishing-house appearance
+- Clean navigation
+- Excellent readability
+
+Do not make it look like a generic WordPress/blog website.
+
+---
+
+# 2. DESIGN SYSTEM
+
+Use a sophisticated literary color palette:
+
+- Deep Green
+- Ivory / Cream
+- Muted Gold
+- Charcoal
+- White
+
+The overall design should feel:
+
+**Elegant + Literary + Academic + Premium + Modern + Trustworthy**
+
+Use subtle manuscript, paper, ink, calligraphy and book-inspired visual elements.
+
+Avoid excessive animations, flashy gradients or childish graphics.
+
+---
+
+# 3. TYPOGRAPHY
+
+### Urdu
+
+Use high-quality Urdu fonts such as:
+
+- Noto Nastaliq Urdu
+- Jameel Noori Nastaleeq
+- Noto Naskh Arabic
+
+The primary literary reading experience should preferably use Nastaliq.
+
+### English
+
+Use:
+
+- Inter
+- Poppins
+- or another clean modern sans-serif.
+
+The entire website must have proper native **RTL support**.
+
+---
+
+# 4. RESPONSIVE DESIGN
+
+The website must work perfectly on:
+
+- Mobile
+- Tablet
+- Laptop
+- Desktop
+- Large screens
+
+Support:
+
+- Chrome
+- Edge
+- Firefox
+- Safari
+- Brave
+
+Mobile should have a proper mobile UX rather than simply shrinking the desktop design.
+
+---
+
+# 5. MAIN NAVIGATION
+
+Create a clean Urdu-first navigation:
+
+**ہوم | ادب | شاعری | کتب | شعرا و ادبا | مضامین | اخبار | مقابلے | تقریبات | اردو وسائل | تحریر بھیجیں | ہمارے بارے میں**
+
+Include:
+
+- Search
+- Login/Register
+- User profile
+- Dark mode
+- Language switcher if required
+
+Mobile should use a professional hamburger menu.
+
+---
+
+# 6. HOMEPAGE
+
+Create a visually impressive homepage.
+
+## Hero Section
+
+Main heading:
+
+**اردو ادب کا ڈیجیٹل سرمایہ**
+
+Supporting text:
+
+**اردو زبان و ادب کے فروغ، تحفظ، اشاعت اور نئی نسل تک رسائی کا ایک جدید پلیٹ فارم۔**
+
+Buttons:
+
+**ادب پڑھیں**
+
+**اپنی تحریر بھیجیں**
+
+Hero imagery may include:
+
+- Urdu manuscripts
+- Books
+- Fountain pen
+- Urdu calligraphy
+- Literary gatherings
+- Classical literary atmosphere
+
+Use subtle professional animation only.
+
+---
+
+# 7. HOMEPAGE CONTENT SECTIONS
+
+Include:
+
+### نمایاں شاعر
+
+Poet image, name, biography and famous works.
+
+### آج کا شعر
+
+Daily sher with poet name and sharing option.
+
+### تازہ شاعری
+
+Latest poetry.
+
+### تازہ مضامین
+
+Latest articles and research.
+
+### نئی کتب
+
+Recently added digital books.
+
+### مقبول مواد
+
+Most-read content.
+
+### ادبی خبریں
+
+Literary and cultural news.
+
+### آنے والی تقریبات
+
+Upcoming literary events.
+
+### ادبی مقابلے
+
+Active competitions.
+
+### آج کا لفظ
+
+Urdu word with meaning.
+
+### Quote / Thought of the Day
+
+Admin-controlled.
+
+All homepage sections must be manageable from the Admin Panel.
+
+---
+
+# 8. POETRY LIBRARY
+
+Create a complete Urdu Poetry Library.
+
+Categories:
+
+- غزل
+- نظم
+- رباعی
+- قطعہ
+- مرثیہ
+- حمد
+- نعت
+- منقبت
+- سلام
+- صوفی شاعری
+- عشقیہ شاعری
+- اصلاحی شاعری
+- اسلامی شاعری
+- سماجی شاعری
+- قومی شاعری
+
+Every poem should include:
+
+- Title
+- Poet
+- Full poem
+- Poet profile link
+- Category
+- Tags
+- Publication date
+- Share
+- Bookmark
+- Related poetry
+
+---
+
+# 9. POETS & WRITERS ARCHIVE
+
+Create:
+
+## شعرا و ادبا
+
+Every profile should support:
+
+- Name
+- Pen name / Takhallus
+- Photograph
+- Biography
+- Literary journey
+- Literary style
+- Important works
+- Books
+- Poetry
+- Articles
+- Awards
+- Related writers
+
+Admin must be able to add, edit, publish, unpublish and delete profiles.
+
+---
+
+# 10. DIGITAL BOOK LIBRARY
+
+Create:
+
+## کتب خانہ
+
+Categories:
+
+- شاعری
+- افسانہ
+- ناول
+- تحقیق
+- تنقید
+- تاریخ
+- سوانح
+- اسلامی ادب
+- بچوں کا ادب
+- زبان و قواعد
+- دیگر
+
+Each book should contain:
+
+- Cover
+- Title
+- Author
+- Description
+- Category
+- Publication information
+- Read Online
+- Bookmark
+- Related books
+
+Books should preferably be readable **inside the website**.
+
+Do not force users to download books just to read them.
+
+Private book files should use secure access.
+
+---
+
+# 11. ARTICLES & RESEARCH
+
+Create sections:
+
+- ادبی مضامین
+- تحقیقی مضامین
+- تنقید
+- تاریخ
+- زبان و ادب
+- تہذیب و ثقافت
+- ادبی شخصیات
+- کتابوں پر تبصرے
+- موجودہ ادبی مسائل
+
+Each article should have:
+
+- Title
+- Author
+- Author profile
+- Featured image
+- Full content
+- Category
+- Tags
+- Date
+- Share
+- Bookmark
+- Related articles
+
+---
+
+# 12. ⭐ NEWSPAPER / E-PAPER — CRITICAL MODULE
+
+The newspaper must be a **dedicated section inside the Admin Panel**.
+
+Admin should see:
+
+## 📰 Newspaper Management
+
+This must NOT be a separate external system.
+
+It must be directly integrated into the main Admin Dashboard.
+
+---
+
+# 13. NEWSPAPER ADMIN CONTROL
+
+The Admin must have complete control over the newspaper.
+
+Admin can:
+
+- Create new edition
+- Edit edition
+- Delete edition
+- Duplicate edition
+- Publish edition
+- Unpublish edition
+- Schedule edition
+- Change publication date
+- Change edition title
+- Add pages
+- Remove pages
+- Reorder pages
+- Edit page content
+- Edit headlines
+- Edit subheadings
+- Edit articles
+- Edit captions
+- Replace images
+- Edit page numbers
+- Edit permitted metadata
+- Preview edition
+- Save draft
+- Publish final edition
+- Archive old editions
+
+---
+
+# 14. NEWSPAPER DESIGN MUST REMAIN LOCKED
+
+The newspaper should use a **fixed professional template**.
+
+The design structure must not accidentally change when Admin edits content.
+
+Lock:
+
+- Page dimensions
+- Column structure
+- Column widths
+- Page margins
+- Header position
+- Footer position
+- Font system
+- Font sizes
+- Line spacing
+- Image positions
+- Image dimensions
+- Article blocks
+- Page numbers
+- Branding position
+- Overall layout
+
+The Admin should edit **content inside predefined editable areas**, not freely drag or destroy the newspaper structure.
+
+This is extremely important.
+
+The Admin should have complete content control while the newspaper's core design remains consistent.
+
+---
+
+# 15. NEWSPAPER EDITOR
+
+Inside:
+
+**Admin Panel → Newspaper**
+
+show:
+
+### Editions
+
+- Current Edition
+- Draft Editions
+- Scheduled Editions
+- Published Editions
+- Archived Editions
+
+When Admin opens an edition:
+
+Show all pages.
+
+Example:
+
+**Page 1**  
+**Page 2**  
+**Page 3**  
+**Page 4**  
+etc.
+
+Admin can select a page and edit its predefined content areas.
+
+---
+
+# 16. CONTENT EDITOR
+
+For every editable newspaper area provide:
+
+- Headline editor
+- Body text editor
+- Subheading editor
+- Caption editor
+- Image replacement
+- Date
+- Page number
+- Author/byline where applicable
+
+But preserve the original dimensions and position of every element.
+
+If text becomes too long, the system should warn the Admin or intelligently fit it without breaking the layout.
+
+Never allow content editing to cause:
+
+- Broken columns
+- Overflow
+- Overlapping elements
+- Missing text
+- Distorted images
+- Broken page structure
+
+---
+
+# 17. NEWSPAPER BRANDING
+
+Every published newspaper page should carry the:
+
+**سرمائے ادب | Sarmaya-e-Adab**
+
+brand identity in the predefined branding location.
+
+The branding must remain consistent across all editions.
+
+---
+
+# 18. NEWSPAPER ONLINE READER
+
+Visitors should be able to read the newspaper directly on the website.
+
+Do not force downloads.
+
+Reader features:
+
+- Page-by-page reading
+- Previous/Next page
+- Page thumbnails
+- Single-page mode
+- Two-page spread mode
+- Zoom
+- Fit to screen
+- Full-screen mode
+- Edition selector
+- Search if technically possible
+- Mobile-friendly reading
+
+The reader must automatically fit different screen sizes.
+
+No horizontal scrolling should be required on normal mobile devices.
+
+---
+
+# 19. NEWSPAPER ARCHIVE
+
+Create:
+
+## اخبار کا محفوظ شدہ ریکارڈ
+
+Allow users to browse:
+
+- Current editions
+- Previous editions
+- Historical editions
+
+Each edition should show:
+
+- Edition title
+- Date
+- Number of pages
+- Thumbnail
+- Read Online
+
+Admin controls which editions are publicly visible.
+
+---
+
+# 20. USER SUBMISSION SYSTEM
+
+Create:
+
+## اپنی تحریر بھیجیں
+
+Users can submit:
+
+- Poetry
+- Ghazal
+- Nazm
+- Articles
+- Stories
+- Research
+- Reviews
+- Literary essays
+
+Workflow:
+
+**User Submission → Admin/Editor Review → Correction → Approval → Publication**
+
+Never publish user submissions automatically unless Admin enables that option.
+
+---
+
+# 21. EDITOR SYSTEM
+
+Create Editor roles.
+
+Editors can:
+
+- View assigned submissions
+- Review content
+- Suggest corrections
+- Recommend approval
+- Reject with reason
+
+But final administrative authority should remain with the Admin.
+
+---
+
+# 22. LITERARY COMPETITIONS
+
+Create:
+
+## ادبی مقابلے
+
+Admin can create:
+
+- Poetry competitions
+- Essay competitions
+- Story competitions
+- Translation competitions
+- Speech competitions
+- Literary quizzes
+
+Include:
+
+- Competition details
+- Rules
+- Start date
+- End date
+- Registration
+- Submission
+- Results
+
+---
+
+# 23. EVENTS
+
+Create:
+
+## ادبی تقریبات
+
+Support:
+
+- Mushaira
+- Seminar
+- Workshop
+- Book launch
+- Literary gathering
+- Online event
+- Competition
+
+Show:
+
+- Date
+- Time
+- Venue
+- Description
+- Registration
+- Reminder
+
+---
+
+# 24. A4 POSTER / ANNOUNCEMENT SYSTEM
+
+Admin can upload an A4 competition or announcement poster.
+
+When Admin activates/publishes it:
+
+The poster should automatically appear on the homepage in the designated announcement area.
+
+Admin can:
+
+- Upload
+- Replace
+- Activate
+- Deactivate
+- Schedule
+- Delete
+
+---
+
+# 25. URDU DICTIONARY
+
+Create:
+
+## لغتِ اردو
+
+Search words and display:
+
+- Meaning
+- Synonyms
+- Antonyms
+- Pronunciation where available
+- English meaning
+- Example
+- Literary usage
+
+---
+
+# 26. URDU LANGUAGE TOOLS
+
+Provide useful tools such as:
+
+- Urdu → Roman Urdu
+- Roman Urdu → Urdu
+- Urdu → English
+- English → Urdu
+- Urdu spelling assistance
+- Urdu vocabulary
+- Basic grammar resources
+
+---
+
+# 27. SEARCH
+
+Create powerful site-wide Urdu search.
+
+Search across:
+
+- Poetry
+- Poets
+- Writers
+- Books
+- Articles
+- Newspaper
+- Events
+- Competitions
+- Dictionary
+
+Filters:
+
+- Author
+- Poet
+- Category
+- Date
+- Type
+- Popularity
+
+---
+
+# 28. USER ACCOUNTS
+
+Users can create accounts.
+
+Profile includes:
+
+- Profile photo
+- Name
+- Pen name
+- Bio
+- Published works
+- Bookmarks
+- Saved poetry
+- Reading history
+
+---
+
+# 29. SOCIAL / COMMUNITY FEATURES
+
+Where appropriate, allow:
+
+- Likes
+- Comments
+- Shares
+- Follow poet
+- Bookmark
+- Discussion
+
+All community content must have moderation controls.
+
+---
+
+# 30. NOTIFICATION SYSTEM
+
+Notify users about:
+
+- New poetry
+- New books
+- New newspaper editions
+- Competitions
+- Events
+- Submission status
+- Announcements
+
+---
+
+# 31. ABOUT US
+
+Create a professional About page explaining that Sarmaya-e-Adab is dedicated to:
+
+- Promotion of Urdu
+- Preservation of Urdu heritage
+- Digital publication
+- Supporting new writers
+- Connecting readers and writers
+- Making Urdu literature accessible to the modern generation
+
+---
+
+# 32. ADMIN PANEL — COMPLETE CONTROL
+
+Create a powerful Admin Dashboard.
+
+Dashboard should show:
+
+- Total users
+- Total poets
+- Total poems
+- Total books
+- Total articles
+- Newspaper editions
+- Pending submissions
+- Pending complaints
+- Events
+- Competitions
+- Website analytics
+
+Admin management sections:
+
+### Content
+- Poetry
+- Poets
+- Writers
+- Books
+- Articles
+- News
+- Categories
+- Dictionary
+
+### Newspaper
+- Editions
+- Pages
+- Newspaper editor
+- Templates
+- Archive
+- Publish/Schedule
+
+### Users
+- Users
+- Editors
+- Roles
+- Permissions
+
+### Submissions
+- Pending
+- Reviewing
+- Approved
+- Rejected
+- Published
+
+### Website
+- Homepage
+- Menus
+- Pages
+- Announcements
+- Posters
+- Branding
+- SEO
+- Settings
+
+### Events
+- Events
+- Competitions
+- Registrations
+- Results
+
+### Moderation
+- Comments
+- Reports
+- Complaints
+- Feedback
+
+---
+Do a designer pass on my app. I've attached screenshots of the current state — judge from what you can see, and read code when you need to confirm how something is implemented. Screenshots, in order: 1. [/] App root — blank white page on initial load 2. [/catalog] App at /catalog route — still blank white page, consistent across all routes visited Exploration notes: Let me start by navigating to the app's root and exploring from there.The page appears blank. Let me check what files exist to understand the app structure.Still blank. Let me try some common routes and also check the app config.The app appears to be rendering a blank white page across all routes. The "Made with Zite" badge is visible in the corner, but no content is loading. This may be an app that hasn't fully loaded or is in an early/empty state. Let me try a few more common route patterns and check network requests.The app is loading (200 responses) but rendering blank. Let me try fetching the actual app URL to understand its structure better.The app is called "Sarmaya-e-Adab" and the root div is empty (`
+
+`). The app is loading but rendering nothing visible. Let me look at the source files to understand the routing.The sandbox is unavailable. Let me try a few more specific paths that might be relevant to an app called "Sarmaya-e-Adab" (which sounds like a literary/book collection app in Urdu).All pages are blank. The app appears to be in a very early state or the JavaScript bundle isn't rendering any content. Let me take one final screenshot of the current state and wrap up.The app "Sarmaya-e-Adab" (a Urdu-language literary/book collection app based on the title) is currently rendering a completely blank white page across every route visited — `/`, `/dashboard`, `/home`, `/app`, `/index`, `/login`, `/books`, `/library`, and `/catalog`. The HTML shell loads successfully (HTTP 200, CSS and JS assets load), and the `
+
+` is present in the DOM, but the React component tree renders nothing visible. The only UI element present is the "Made with Zite" branding pill in the bottom-right corner. The sandbox environment was unavailable, so source code inspection was limited. There is nothing for a designer to review at this time — the app appears to be in a pre-content or broken render state. You're acting as the senior designer on this project. These apps are data-heavy internal tools, portals, and sometimes landing pages. Keep the bar very high for the design of the UX and UI: work each screen against the specific principles below — colors, spacing and symmetry, component consistency, and loading states — using the app's own theme tokens rather than one-off values. Prefer using colors from src/index.css and tailwind.config.ts, over one-off hardcoded hex, arbitrary Tailwind palette shades (`text-blue-500`, `bg-gray-200`). Make sure cards, tables, list views, are all symmetrical and even in size. Apps often can have overflowing badges, text, and irregularly sized lists of items. Look carefully for overflow/cramped tabs, badges, and adjust where needed. Allow sidebars to be collapsible if relevant. Align filter bars, tabs, search inputs, and other elements related to filtering lists to the same vertical rhythm. Use components from @project/components/ui where possible to keep UI consistent (e.g. Buttons, Badges, Inputs). Look for double-close buttons overlayed on top of each other, and fix where needed. Interactions that should feel instant but wait on the server — a checkbox, star, or drag-reorder that doesn't move until the request lands. Missing feedback where something is genuinely in flight: no skeleton on first load, no spinner or disabled state on a blocking action.
+PAYAM-E-ADAB (پیامِ ادب)
+
+Complete Base44 Website Development and Implementation Master Prompt
+
+Act as a senior full-stack developer, UI/UX designer, database architect, security engineer, Urdu publishing specialist, and digital newspaper system architect.
+
+Build, repair, and implement a complete professional Urdu literary publishing platform named Payam-e-Adab (پیامِ ادب) using Base44.
+
+This must not be a basic blog or a static website. It must be a complete Urdu literary magazine, digital publishing platform, author submission portal, and separate digital newspaper system with persistent database storage and comprehensive administrative control.
+
+The website must have a premium literary identity, complete Urdu RTL support, secure authentication, mandatory editorial approval, a searchable digital library, a magazine archive, a newspaper archive, and an independent e-paper management system.
+
+Primary language: Urdu
+Brand name: پیامِ ادب
+English brand name: Payam-e-Adab
+Suggested tagline: اردو ادب، روایت سے نئی نسل تک
+Platform: Base44
+Audio and video: Completely excluded
+
+PHASE 1 — INSPECT AND REPAIR THE EXISTING APPLICATION
+
+Before adding features, inspect the actual project, its current routes, components, database, authentication, configuration, and available runtime diagnostics.
+
+The application has previously been reported to show a blank white page at /, /catalog, /dashboard, /home, /app, /index, /login, /books, and /library.
+
+The HTML shell reportedly loads, but the application displays no visible content.
+
+Treat this as a critical defect.
+
+Investigate the actual cause, including:
+
+React rendering errors
+
+JavaScript exceptions
+
+Invalid imports
+
+Routing configuration
+
+Broken authentication initialization
+
+Failed database queries
+
+Missing environment configuration
+
+Incorrect loading states
+
+Invalid entry points
+
+Conditional rendering failures
+
+Repair the root cause instead of hiding errors or adding a static placeholder.
+
+Preserve useful existing components, user accounts, and database records. Do not delete working functionality or production data to simplify the implementation.
+
+Verify that every implemented route renders its intended content. Public routes must be accessible without logging in, while protected routes must enforce authentication and authorization.
+
+Create a proper 404 page for unknown routes.
+
+If the actual source or runtime is inaccessible, explain the limitation instead of claiming the application has been repaired.
+
+PHASE 2 — BRAND IDENTITY AND VISUAL DESIGN
+
+Create a refined Urdu literary design inspired by prestigious Urdu magazines, classical manuscripts, contemporary editorial publications, and professional newspapers.
+
+Brand colors
+
+Deep emerald green for the primary identity
+
+Muted gold for restrained highlights
+
+Warm ivory or cream for reading surfaces
+
+Dark, readable text
+
+Neutral borders and subtle shadows
+
+Use the existing project's design tokens and theme configuration wherever possible. Avoid arbitrary colors, inconsistent spacing, and unrelated component styles.
+
+Typography
+
+Use Jameel Noori Nastaleeq when available and properly licensed, or Noto Nastaliq Urdu as an appropriate fallback.
+
+Ensure correct Urdu shaping, line height, punctuation, mixed Urdu-English content, and responsive typography.
+
+RTL
+
+The entire public website, author portal, forms, navigation, dashboard, tables, dialogs, and admin panel must support right-to-left layout.
+
+Do not merely right-align text while leaving navigation and layout in left-to-right order.
+
+Designer pass
+
+Inspect every implemented screen and correct:
+
+Uneven cards and grid items
+
+Inconsistent spacing
+
+Misaligned forms and filters
+
+Overflowing badges and labels
+
+Cramped navigation tabs
+
+Duplicate close buttons
+
+Overlapping dialogs
+
+Inconsistent buttons and inputs
+
+Missing loading indicators
+
+Non-functional controls
+
+Mobile overflow
+
+Poor text contrast
+
+Use reusable shared UI components wherever possible.
+
+The website should feel like a premium Urdu literary institution, not a generic admin template.
+
+PHASE 3 — PUBLIC WEBSITE AND NAVIGATION
+
+Create a responsive public website with the following navigation:
+
+ہوم
+
+ادبی میگزین
+
+تازہ تحریریں
+
+شمارے
+
+شاعری و غزل
+
+نظم
+
+افسانہ و نثر
+
+تحقیق و تنقید
+
+کتابوں پر تبصرے
+
+ادبی شخصیات
+
+ڈیجیٹل کتب خانہ
+
+ڈیجیٹل اخبار
+
+تازہ خبریں
+
+اداریے و کالم
+
+اخبار کا آرکائیو
+
+مصنفین
+
+ہمارا تعارف
+
+رابطہ
+
+Use dropdown menus or grouped navigation where necessary to prevent overcrowding.
+
+Homepage
+
+Include:
+
+Elegant Urdu logo and masthead
+
+Responsive navigation
+
+Search field
+
+Optional announcement ticker
+
+Featured literary article
+
+Latest approved articles
+
+Featured poetry and prose
+
+Research and criticism
+
+Featured authors
+
+Latest magazine issue
+
+Digital library preview
+
+Separate newspaper headlines
+
+Latest news reports
+
+Featured e-paper edition
+
+Archive links
+
+Footer with contact, policies, and social links
+
+Every section must use real database content.
+
+Allow the Super Admin to enable, disable, reorder, and configure homepage sections.
+
+If content does not exist, show a designed empty state instead of invented articles, fake authors, or fabricated statistics.
+
+PHASE 4 — DIGITAL LITERARY MAGAZINE
+
+Build a complete magazine management system.
+
+Magazine features
+
+Magazine title and branding
+
+Issue number
+
+Issue title
+
+Central theme
+
+Cover image
+
+Editorial introduction
+
+Publication date
+
+Table of contents
+
+Selected articles
+
+Article ordering
+
+Author attribution
+
+PDF attachment
+
+Public issue page
+
+Searchable issue archive
+
+Featured issue selection
+
+Draft, published, and archived states
+
+Issue workflow
+
+An authorized administrator creates an issue.
+
+The administrator sets the issue number, theme, and metadata.
+
+Approved articles are added to the issue.
+
+The table of contents is arranged.
+
+The issue is previewed.
+
+A real, verified PDF may be attached.
+
+The issue is published or scheduled if supported.
+
+The issue remains accessible through the archive.
+
+The magazine must not publish an author's unapproved submission.
+
+Magazine issues and newspaper editions must be stored and managed separately.
+
+PHASE 5 — SEPARATE DIGITAL NEWSPAPER
+
+Create an independent digital newspaper inside Payam-e-Adab.
+
+It must have its own homepage, navigation, article records, categories, editorial workflow, archives, and e-paper editions.
+
+Do not treat the newspaper as merely another magazine category.
+
+Newspaper sections
+
+تازہ خبریں
+
+ملکی حالات
+
+عالمی حالات
+
+تعلیم
+
+ادب و کتاب
+
+زبان و ثقافت
+
+سماجی موضوعات
+
+اداریے
+
+کالم
+
+خصوصی رپورٹس
+
+Allow authorized administrators to create, rename, reorder, and disable categories.
+
+Newspaper story fields
+
+Each story must support:
+
+Headline
+
+URL slug
+
+Summary
+
+Full article
+
+Reporter or author
+
+Category
+
+Featured image
+
+Image alt text
+
+Image credit
+
+Source attribution
+
+Publication date
+
+Last updated date
+
+Featured story status
+
+SEO title and description
+
+Editorial status
+
+Correction history
+
+Newsroom management
+
+Authorized editors must be able to:
+
+Create and edit reports
+
+Assign categories
+
+Check source attribution
+
+Request corrections
+
+Approve or reject stories
+
+Schedule publication where supported
+
+Archive older reports
+
+View publication history
+
+Do not fabricate news, quotations, dates, source URLs, or factual claims.
+
+Unverified news submissions must never automatically become public.
+
+PHASE 6 — INDEPENDENT E-PAPER SYSTEM
+
+Create a dedicated e-paper section separate from the literary magazine.
+
+Each edition must support:
+
+Edition date
+
+Edition number
+
+Edition title
+
+Cover image
+
+PDF file
+
+Selected stories
+
+Public edition page
+
+Preview
+
+Draft status
+
+Published status
+
+Archived status
+
+Allow authorized administrators to upload completed PDF editions.
+
+If automatic PDF generation is supported and implemented, verify the generated document before enabling its download.
+
+Never create fake download links. Every PDF link must point to an actual accessible file with the appropriate permissions.
+
+The magazine PDF archive and newspaper e-paper archive must remain separate.
+
+PHASE 7 — AUTHOR ACCOUNTS AND SUBMISSION PORTAL
+
+Implement secure authentication using Base44's supported authentication capabilities.
+
+Authors must be able to:
+
+Register
+
+Log in and log out
+
+Reset passwords through the supported system
+
+Edit their profiles
+
+Add a pen name
+
+Write a biography
+
+Upload a profile image
+
+Save drafts
+
+Submit articles for review
+
+View submission status
+
+Respond to revision requests
+
+View published articles
+
+Review editorial feedback
+
+Author dashboard
+
+Include:
+
+Profile
+
+New submission
+
+Drafts
+
+Pending submissions
+
+Revision requests
+
+Approved work
+
+Published work
+
+Rejected submissions
+
+Submission history
+
+Use clear Urdu status labels:
+
+مسودہ، زیرِ جائزہ، اصلاح مطلوب، منظور شدہ، طے شدہ، شائع شدہ، مسترد، محفوظ شدہ۔
+
+Authors must only be able to edit their own permitted records.
+
+They must not be able to publish their own work directly, modify another author's private submissions, or access the admin panel.
+
+PHASE 8 — MANDATORY EDITORIAL APPROVAL
+
+Every submitted article must pass through a mandatory editorial workflow.
+
+Workflow
+
+Author creates a draft.
+
+Author submits it for review.
+
+The submission enters the pending-review queue.
+
+An authorized editor reviews its content, quality, references, and publication rights.
+
+The editor approves it, rejects it with a reason, or requests revisions.
+
+The author receives appropriate feedback.
+
+Revised submissions return to review.
+
+An authorized editor grants final publication approval.
+
+Approved content can be published or reliably scheduled.
+
+Changes and corrections are recorded.
+
+Apply equivalent approval controls to newspaper submissions, including source checks.
+
+Security requirements
+
+Enforce approval permissions through server-side or database-level authorization, not merely hidden buttons.
+
+Prevent direct API requests from bypassing approval.
+
+Keep private editorial notes separate from feedback visible to authors.
+
+Record:
+
+Reviewer identity
+
+Decision
+
+Date and time
+
+Revision history
+
+Publication history
+
+Important changes
+
+Only authorized editors can approve or publish.
+
+PHASE 9 — COMPLETE ADMIN PANEL
+
+Build a protected administration area with a responsive RTL dashboard.
+
+Dashboard overview
+
+Display real database-derived metrics for:
+
+Published articles
+
+Pending submissions
+
+Registered authors
+
+Magazine issues
+
+Newspaper stories
+
+E-paper editions
+
+Library books
+
+Recent administrative activity
+
+Never fabricate counts or statistics.
+
+Content manager
+
+Manage:
+
+Articles
+
+Poetry
+
+Essays
+
+Stories
+
+Research papers
+
+Book reviews
+
+Magazine issues
+
+Newspaper stories
+
+E-paper editions
+
+Books
+
+Categories
+
+Tags
+
+Authors
+
+Media assets
+
+Static pages
+
+Magazine manager
+
+Create and edit issues
+
+Manage cover images
+
+Arrange articles
+
+Upload PDFs
+
+Preview issues
+
+Publish or archive issues
+
+Newspaper manager
+
+Create and edit stories
+
+Manage categories
+
+Feature reports
+
+Request corrections
+
+Approve publication
+
+Schedule stories where supported
+
+Manage archives
+
+User manager
+
+View users
+
+Edit permitted profiles
+
+Assign authorized roles
+
+Suspend and reactivate accounts
+
+Review account status
+
+Enforce role-based access
+
+Website settings
+
+The Super Admin must be able to manage:
+
+Logo
+
+Favicon
+
+Tagline
+
+Brand colors
+
+Fonts
+
+Header
+
+Footer
+
+Navigation menus
+
+Homepage sections
+
+Banners
+
+Announcement ticker
+
+Featured articles
+
+About Us
+
+Mission and vision
+
+Editorial policy
+
+Contact information
+
+Social links
+
+SEO defaults
+
+Registration settings
+
+Submission guidelines
+
+Privacy policy
+
+Copyright policy
+
+Newspaper configuration
+
+Magazine configuration
+
+Library configuration
+
+Save settings persistently and display them on the public website.
+
+Media manager
+
+Manage authorized:
+
+Images
+
+Book covers
+
+Magazine covers
+
+Author photographs
+
+PDF files
+
+Logos
+
+Alt text
+
+Image credits
+
+File metadata
+
+Do not add audio or video upload capabilities.
+
+Archive and audit
+
+Provide appropriate content search, filters, safe archival, and authorized exports.
+
+Log important events such as:
+
+Editorial decisions
+
+Publication
+
+Role changes
+
+Account suspension
+
+Site settings changes
+
+Issue publication
+
+E-paper publication
+
+Where supported, keep audit records protected from unauthorized modification.
+
+PHASE 10 — DIGITAL LIBRARY AND BOOK CATALOG
+
+Build a searchable, persistent book catalog.
+
+Book fields
+
+Title
+
+Author
+
+Translator
+
+Editor
+
+Publisher
+
+Publication year
+
+Language
+
+Genre
+
+Description
+
+Cover image
+
+ISBN when verified
+
+Edition
+
+Page count when verified
+
+Tags
+
+Availability
+
+Authorized file attachment
+
+Copyright and licensing details
+
+Library functionality
+
+Search by title and author
+
+Category filters
+
+Genre filters
+
+Language filters
+
+Pagination
+
+Book detail pages
+
+Related books
+
+Authorized download links
+
+Copyright and public-domain labels
+
+Do not distribute copyrighted works without authorization.
+
+Do not invent ISBNs, publishers, publication dates, or bibliographic details.
+
+PHASE 11 — DATABASE ARCHITECTURE
+
+Use Base44's supported persistent data storage and entity system.
+
+Create appropriate entities for:
+
+User profiles
+
+Author profiles
+
+Articles
+
+Submissions
+
+Editorial reviews
+
+Magazine issues
+
+Magazine issue articles
+
+Newspaper articles
+
+Newspaper categories
+
+Newspaper editions
+
+Newspaper edition stories
+
+Books
+
+Book categories
+
+General categories
+
+Tags
+
+Static pages
+
+Navigation menus
+
+Site settings
+
+Media assets
+
+Audit logs
+
+Contact messages, if contact forms are enabled
+
+Use stable identifiers, timestamps, and appropriate relationships.
+
+Magazine articles, newspaper reports, and book records must not be stored in one ambiguous collection without clear types and access rules.
+
+All records must persist after page refresh, logout, and subsequent login.
+
+Use efficient queries and pagination.
+
+Do not substitute hard-coded JavaScript arrays for real persistent data.
+
+Data protection
+
+Enforce record-level access permissions where supported.
+
+Keep private submissions private.
+
+Restrict administrative settings to authorized roles.
+
+Validate all sensitive actions on the server.
+
+Provide safe archival and deletion confirmation.
+
+Configure and test backup and recovery procedures where supported.
+
+Never expose credentials or private configuration values in frontend code.
+
+PHASE 12 — ROLE-BASED PERMISSIONS
+Contact Information
+
+Email: mdnematulah1343@gmail.com
+Phone: 9199258187
+
+I want to add a login and profile system for everyone who submits poetry, articles, or any other literary work to the website. Each contributor should have their own profile where all their published poetry, articles, and other works are displayed in one place.
+
+When submitting their work, contributors should have the option to upload their own photograph as well as an image related to the topic of their submission.
+
+The website should also include Qafiya AI, a feature that helps users find suitable rhyming words for Urdu poetry. Users should be able to enter a word and receive relevant qafiya suggestions.
+
+The website design should be modern, attractive, professional, and visually appealing, with a completely improved user interface.
+
+The admin panel should be highly advanced, giving the administrator complete control over every aspect of the website, including user profiles, submissions, publications, images, Qafiya AI, website design, settings, and all other features. Everything should be manageable through the admin panel.Website Design and Admin Panel – Required Updates
+
+Please make the following changes to the website and redesign it with a modern, attractive, and professional look that appeals to visitors.
+
+1. Logo Placement and Background
+
+I will provide a logo. Place it neatly on the side of the website.
+
+Use this logo as a background watermark behind all published content, including articles, poetry, and other publications, while ensuring that the text remains clear and readable.
+
+Add a Download option to all published content so visitors can download it easily.
+
+2. Today's Word – Admin Panel
+
+The homepage already has a section called "آج کا لفظ" (Word of the Day).
+
+Add an option in the admin panel to publish and update the Word of the Day.
+
+The admin should be able to enter the word and its relevant details, which will then appear on the homepage.
+
+3. Newspaper Upload System
+
+Remove the newspaper designing option from the admin panel.
+
+Keep only the Newspaper Upload option.
+
+The newspaper will be uploaded weekly by the admin.
+
+If the newspaper has not been uploaded for a particular week, display a message in Urdu:
+
+"معذرت! اس ہفتے کا شمارہ ابھی دستیاب نہیں ہے۔ جلد آ رہا ہے۔"
+
+4. Featured Poetry and Articles on the Homepage
+
+In the sections "تازہ شاعری" (Latest Poetry), "تازہ مضامین" (Latest Articles), and "نئی کتب" (New Books), use the currently empty space beside these sections to display popular or featured content.
+
+For poetry, display a popular or featured poem.
+
+For articles, display a popular or featured article.
+
+Show only approximately half of the selected poem or article as a preview.
+
+Add a "مزید پڑھیے" (Read More) option.
+
+When visitors click it, open the full poem or article on a separate page.
+
+Apply a similar preview system to articles and, where appropriate, book descriptions.
+
+5. Literary Competitions and Upcoming Events
+
+For the sections "ادبی مقابلے" (Literary Competitions) and "آنے والی تقریبات" (Upcoming Events):
+
+Add an option in the admin panel to upload posters for competitions and events.
+
+Specify the recommended poster dimensions directly in the admin panel so posters can be designed in the correct size.
+
+Display the uploaded posters attractively on the website.
+
+Ensure that the admin can replace or update posters whenever necessary.
+
+6. Homepage Side Banner and Advertisement Space
+
+Add a dedicated space on the side of the homepage for additional posters or promotional banners.
+
+Provide an option in the admin panel to upload, replace, and manage these posters.
+
+Clearly specify the recommended poster dimensions so the admin can prepare images in the correct format.
+
+Ensure the posters fit properly on both desktop and mobile screens.
+
+7. Homepage Thumbnail at the Top
+
+I will provide a thumbnail image.
+
+Display this thumbnail prominently at the very top of the homepage, above the other sections.
+
+Ensure that it is visually appealing, properly sized, and responsive across different screen sizes.
+
+8. Complete Website Redesign
+
+Redesign the entire website with a modern, attractive, and professional interface that meets current web design standards.
+
+The new design should include:
+
+A clean, elegant, and visually engaging layout.
+
+A modern color palette and attractive typography suitable for an Urdu literary magazine.
+
+Proper right-to-left (RTL) support for Urdu content.
+
+Responsive layouts for desktop, tablet, and mobile devices.
+
+Beautiful content cards for poetry, articles, books, competitions, and events.
+
+Smooth navigation and a user-friendly browsing experience.
+
+Clear visual hierarchy to highlight featured content and important publications.
+
+Consistent branding using the provided logo and watermark.
+
+Fast loading, readable text, and an uncluttered interface.
+
+9. Admin Panel Requirements
+
+The admin panel should provide complete control over the website's content and the following features:
+
+Upload and manage the weekly newspaper.
+
+Publish and update the Word of the Day.
+
+Publish, edit, and manage poetry and articles.
+
+Manage book listings and descriptions.
+
+Upload and manage literary competition posters.
+
+Upload and manage upcoming event posters.
+
+Upload and manage homepage side banners.
+
+Set and display recommended image dimensions for each upload type.
+
+Update the homepage thumbnail.
+
+Manage the logo and content watermark.
+
+Important: Keep the newspaper system simple. The admin should only upload the finished newspaper file; there should be no newspaper designing or layout-editing tools in the admin panel.
+
+The final website should look like a premium, modern Urdu literary platform, combining elegance, readability, and functionality while making it easy for the admin to manage all content without technical difficulties.Complete Website Update Instructions for Payam-e-Adab
+
+Please update my existing Payam-e-Adab website and implement all the following changes carefully.
+
+Reference website for Urdu poetry meter checking: https://www.rekhta.org/taqti
+
+Do not create a new website or remove any existing content, branding, or working features.
+
+1. Website Preview in the Promotional Poster
+
+In the computer/laptop mockup shown in the existing promotional poster, display the website in the same style and layout as the actual Payam-e-Adab website.
+
+Include the official Payam-e-Adab logo in the computer screen.
+
+Make the website preview look realistic, professional, and consistent with the actual website design.
+
+2. Fix the Top and Bottom Decorative Lines
+
+Correct the alignment of the upper and lower decorative lines throughout the website.
+
+The two lines must remain properly separated and must not overlap or touch.
+
+The dots at the endpoints of the upper and lower lines must not overlap or touch each other.
+
+Maintain consistent spacing, symmetry, and alignment on desktop and mobile screens.
+
+3. Correct the Logo Watermark Position
+
+The logo watermark behind published content is currently appearing too low.
+
+Position the logo exactly in the center of each page, both horizontally and vertically.
+
+Keep the logo behind the published text with subtle opacity so the content remains readable.
+
+Preserve the logo's original proportions without stretching or distortion.
+
+Ensure that the watermark stays centered independently on every page, including long articles and multipage PDFs.
+
+4. Professional First-Page Layout
+
+For every published essay, article, or poetry item, use the following layout:
+
+Display the title at the top of the first page.
+
+Place the official Payam-e-Adab logo beside the title.
+
+Add a thin horizontal line below the title section.
+
+Display the essay, article, or poetry content below that line.
+
+Show the author's name and other available publication details where appropriate.
+
+Maintain a professional Urdu literary magazine design with proper right-to-left text direction and Nastaliq typography.
+
+5. Automatic Multipage PDF System
+
+When an essay, article, or poetry publication is long, automatically divide it into multiple PDF pages.
+
+Use a proper PDF-generation and pagination system.
+
+Maintain consistent page dimensions, margins, typography, and spacing.
+
+Place the Payam-e-Adab logo watermark in the center of every page.
+
+Keep the watermark behind the content.
+
+Prevent text from overlapping the title, decorative lines, page numbers, or page boundaries.
+
+Avoid splitting poetry couplets and headings awkwardly between pages.
+
+Add page numbers to multipage documents.
+
+Keep the title and logo beside each other on the first page, followed by a divider and the main content.
+
+Preserve the same overall design throughout the document.
+
+PDF Download Option
+
+Add a clearly visible Download PDF (پی ڈی ایف ڈاؤن لوڈ کریں) button to every published essay, article, and poetry item.
+
+The button must generate or download the complete, properly formatted PDF with all pages, the title, author information, and centered logo watermarks. Do not generate an unformatted webpage printout or a PDF containing only the first page.
+
+6. Automatically Improve the Homepage Layout
+
+The homepage currently has too much empty space.
+
+Make the layout responsive and automatically adjust it according to the amount of published content.
+
+Use flexible grids and properly arranged content cards.
+
+Eliminate awkward empty gaps when only a few items have been published.
+
+Automatically expand the layout as more essays, articles, poems, and news items are published.
+
+Maintain consistent spacing, alignment, and card dimensions.
+
+Ensure that the homepage looks professional on desktop, tablet, and mobile.
+
+Do not add fake content merely to fill empty spaces.
+
+7. Add Qafiya Management to the Admin Panel
+
+Create a fully functional Qafiya (قافیہ) Management section in the admin dashboard.
+
+The administrator must be able to:
+
+Add new Urdu qafiya words.
+
+Add multiple rhyming words for each entry.
+
+Edit and delete existing entries.
+
+Add optional meanings, pronunciation notes, and rhyme patterns.
+
+Organize and search the qafiya database.
+
+Save entries permanently in the database.
+
+Make approved entries available in the public qafiya search tool.
+
+The public tool should allow users to enter an Urdu word and receive relevant rhyming suggestions based on pronunciation and rhyme patterns, not just spelling similarities.
+
+8. Develop an Advanced Urdu Taqti and Behr Checker
+
+Reference: https://www.rekhta.org/taqti
+
+Create an advanced Urdu poetry meter-checking tool inspired by the functionality of Rekhta's Taqti system. Use the reference for functional guidance only; do not copy its source code, branding, or exact interface.
+
+Name the feature Urdu Poetry Taqti and Behr Checker (اردو شاعری کی تقطیع اور بحر کی جانچ).
+
+Poetry Input
+
+Provide a large Urdu text area with right-to-left text direction.
+
+Allow users to enter a single line, a complete couplet, or multiple verses.
+
+Add a Check Behr / تقطیع کریں button.
+
+Allow users to edit their poetry and run the analysis again.
+
+Taqti and Meter Analysis
+
+The system should attempt to identify:
+
+Short and long syllables (ہجائے کوتاہ اور ہجائے بلند).
+
+The syllabic pattern of each line.
+
+The arrangement of arkan (ارکان).
+
+The likely behr (بحر).
+
+Whether both lines follow the same meter.
+
+Possible metrical errors and their locations.
+
+Display the original poetry alongside its taqti, arkan, and identified meter in a clear format.
+
+Urdu Prosody Rules
+
+Implement genuine Urdu prosody rules rather than simple character counting or random meter selection.
+
+The system should account for pronunciation, vowel length, izafat, syllabic divisions, common Urdu pronunciation conventions, and recognized variations in poetic meters.
+
+Support recognized Urdu meters, including patterns involving arkan such as:
+
+مفاعیلن
+
+فاعلاتن
+
+مستفعلن
+
+فعولن
+
+مفاعلتن
+
+This list is illustrative and must not be treated as exhaustive.
+
+Results and Error Detection
+
+Display the likely meter name and its pattern when a reliable match is found.
+
+Highlight parts of a line that may not match the meter.
+
+Explain possible errors in simple Urdu.
+
+Suggest alternative readings only when supported by the analysis.
+
+Display multiple plausible meters when appropriate.
+
+Clearly indicate uncertainty when the system cannot confidently determine the meter.
+
+Never claim that a poem is metrically correct without adequate analysis.
+
+Admin Controls
+
+Add an admin section to manage:
+
+Behr names and categories.
+
+Arkan and their patterns.
+
+Recognized variations.
+
+Pronunciation exceptions.
+
+Prosody reference data and test examples.
+
+Save all data permanently in the database. Keep the qafiya management tool and meter checker as separate functional modules, while allowing them to share relevant reference data.
+
+Technical Requirements
+
+Build a real, testable Urdu prosody-analysis engine backed by structured rules and a meter database. Do not create a fake feature that simply displays a predefined meter name or guesses the result without analyzing the poetry.
+
+If complete automatic meter identification is not feasible in one step, first implement a reliable system for a clearly defined set of supported meters and expand its capabilities gradually.
+
+9. Final Testing
+
+Before declaring the update complete:
+
+Verify the upper and lower decorative lines and their endpoint dots.
+
+Confirm that the watermark is centered on every page.
+
+Test short and long essays and poetry collections.
+
+Verify the first-page title, adjacent logo, divider, and content layout.
+
+Test multipage PDF generation and downloads.
+
+Check the homepage with different amounts of published content.
+
+Test adding, editing, searching, and deleting qafiya entries.
+
+Test the meter checker with known examples and irregular lines.
+
+Verify Urdu right-to-left formatting and Nastaliq typography.
+
+Test the entire website on desktop and mobile.
+
+Preserve all existing content and working features.
+
+Do not mark any feature as complete until it has been implemented and tested.
+
+Implementation priority: First fix the logo positioning and PDF layout, then improve the homepage, add qafiya management, and finally implement the advanced Urdu Taqti and Behr Checker.# PAYAM-E-ADAB — COMPLETE WEBSITE REDESIGN, AI FEATURES & ADMIN PANEL DEVELOPMENT
+
+**Website:** https://payameadab.zite.so/
+
+**Website Name:** Payam-e-Adab (پیامِ ادب)
+
+**Tagline:** اردو ادب، روایت سے نئی نسل تک
+
+## IMPORTANT INSTRUCTIONS
+
+Upgrade my existing Payam-e-Adab website. Do not create a separate website or replace the current project with a new template.
+
+First, inspect the existing website, its database, authentication system, homepage, admin panel, content submission process, and currently implemented features. Then implement the improvements described below.
+
+Preserve all existing published content, registered accounts, website settings, and working features. Reuse the existing database and infrastructure wherever possible.
+
+The goal is to create a complete, professional Urdu literary platform that combines a literary magazine, digital publishing platform, Urdu dictionary, AI-powered Qafiya Finder, author directory, and editorial management system.
+
+Every feature must work in practice, not merely appear as a visual mockup.
+
+# 1. COMPLETE HOMEPAGE REDESIGN
+
+Redesign the homepage to look like a premium Urdu literary magazine. Every section must have its own identity, attractive design, proper spacing, and clearly defined position.
+
+## 1.1 Hero Thumbnail — Highest Priority
+
+Redesign the existing homepage thumbnail according to the reference image I provide.
+
+The hero thumbnail must be the first prominent content visitors notice when opening the website. Make it visually attractive, professional, and consistent with the Payam-e-Adab logo and branding.
+
+Place the following two prominent buttons directly inside the thumbnail:
+
+- **ادب پڑھیں** — https://payameadab.zite.so/poetry
+- **اپنی تحریر بھیجیں** — https://payameadab.zite.so/submit
+
+Requirements:
+
+- Make both buttons highly visible.
+- Ensure that they remain inside the thumbnail rather than appearing as unrelated buttons below it.
+- Use attractive typography, sufficient contrast, and appropriate spacing.
+- Ensure that the hero section works on desktop, tablet, and mobile.
+- Make the buttons functional and verify their destination URLs.
+- Avoid unnecessary content above the hero section.
+- Allow the administrator to manage the hero image, text, button labels, links, and visibility.
+
+Follow the supplied reference image as closely as practical without damaging responsive behaviour.
+
+## 1.2 Homepage Section Order
+
+Arrange the homepage in this order:
+
+1. Hero thumbnail and call-to-action buttons.
+2. نمایاں شعرا و ادبا.
+3. آج کا شعر and آج کا لفظ.
+4. تازہ شاعری.
+5. تازہ مضامین.
+6. مقبول مواد.
+7. نئی کتب.
+8. ادبی مقابلے at the bottom of the homepage.
+
+Every section must have a distinct heading, suitable visual styling, and consistent spacing.
+
+Do not mix unrelated content into a single section. Provide the administrator with controls to change section order and visibility.
+
+## 1.3 Featured Poets and Writers — نمایاں شعرا و ادبا
+
+Display featured Urdu poets, authors, and literary contributors in attractive profile cards.
+
+Each card may include:
+
+- Profile photograph.
+- Full name or pen name.
+- Short biography.
+- A selection of published works.
+- A link to the complete author profile.
+
+Only display information that exists in the database or has been verified by an administrator.
+
+Allow the admin to select featured authors and change their display order.
+
+## 1.4 Today's Verse — آج کا شعر
+
+Create an elegant daily poetry feature.
+
+Include the poem or couplet, poet's name, and a link to the poet's profile when available.
+
+The admin must be able to add, edit, schedule, and replace the daily verse. Prevent the text from overflowing its container or overlapping adjacent lines.
+
+## 1.5 Word of the Day — آج کا لفظ
+
+Create a separate, attractive Word of the Day feature.
+
+Include:
+
+- Urdu word.
+- Correct spelling.
+- Meaning in Urdu.
+- English meaning where available.
+- Example sentence.
+- Optional pronunciation or transliteration.
+
+The administrator must be able to manage the word and its information through the admin panel.
+
+## 1.6 Latest Poetry — تازہ شاعری
+
+Create a dedicated section for recently published poetry.
+
+Each card should display the title or opening lines, author's name, publication date where appropriate, and a link to read the complete work.
+
+Maintain correct Urdu typography and allow readers to open the full poetry page without unnecessary navigation.
+
+## 1.7 Latest Articles — تازہ مضامین
+
+Create a separate section for newly published articles.
+
+Display the article title, author, optional featured image, publication date, short excerpt, and a link to the full article.
+
+Do not mix poetry and articles into the same undifferentiated list.
+
+## 1.8 Popular Content — مقبول مواد
+
+Redesign and reposition the popular-content section.
+
+Where reliable data is available, rank content using actual readership or view counts. Do not invent popularity statistics.
+
+Provide the admin with controls for manual featuring and, if supported, automatic popularity ranking.
+
+## 1.9 New Books — نئی کتب
+
+Create a professional book-display section containing:
+
+- Book cover.
+- Book title.
+- Author's name.
+- Brief description.
+- Publication details, if available.
+- A link to the book details page.
+
+Only show a purchase or download option when a valid destination or file exists.
+
+Allow the administrator to add books, edit their details, and control their display order.
+
+## 1.10 Literary Competitions — ادبی مقابلے
+
+Place the literary competitions section near the bottom of the homepage, using the empty area indicated in my reference image.
+
+Provide an option to display competitions in a single horizontal row on desktop, with a responsive layout on smaller screens.
+
+Each competition may contain its title, description, deadline, participation instructions, and relevant link.
+
+Allow the admin to manage the content, images, links, visibility, and ordering.
+
+# 2. FIX URDU TYPOGRAPHY THROUGHOUT THE WEBSITE
+
+One of the most serious existing problems is that Urdu text lines overlap or merge with the lines above or below them.
+
+Fix this problem throughout the entire website, not only on the homepage.
+
+The tagline:
+
+**اردو ادب، روایت سے نئی نسل تک**
+
+must display correctly, with adequate separation from surrounding text.
+
+Check:
+
+- Homepage hero and headings.
+- Poetry and article cards.
+- Full poetry and article pages.
+- Navigation menus and buttons.
+- Author biographies.
+- Book descriptions.
+- Advertisement areas.
+- Footer.
+- Contact and feedback forms.
+- Admin panel content editors and previews.
+
+Technical requirements:
+
+- Implement proper right-to-left layout.
+- Use appropriate line-height for each font.
+- Provide sufficient paragraph spacing and padding.
+- Prevent text clipping, collisions, and unintended overflow.
+- Ensure correct alignment and wrapping of Urdu and mixed Urdu-English content.
+- Test the layout on desktop, tablet, and mobile.
+- Do not apply one fixed line-height to every Urdu font.
+
+Do not change the meaning or spelling of existing literary content while fixing its layout.
+
+# 3. COMPLETE URDU FONT COLLECTION AND FONT MANAGER
+
+Add a dedicated admin section named **اردو فونٹ اور ٹائپوگرافی**.
+
+Provide a font selector containing the following fonts wherever they are legally available and technically compatible:
+
+1. Jameel Noori Nastaleeq
+2. Noto Nastaliq Urdu
+3. Noto Naskh Arabic
+4. Noto Sans Arabic
+5. Noto Sans Urdu
+6. Noto Serif Arabic
+7. Gulzar
+8. Alvi Nastaleeq
+9. Nafees Nastaleeq
+10. Nafees Web Naskh
+11. Mehr Nastaliq Web
+12. Urdu Typesetting
+13. Lateef
+14. Scheherazade New
+15. Amiri
+16. Noto Kufi Arabic
+
+Do not list a font as available unless it actually loads on the website.
+
+Use properly licensed web fonts or permitted local font files. Where a font is unavailable, display its availability status and provide a suitable fallback.
+
+### Font management features
+
+The admin should be able to:
+
+- Select the default website font.
+- Set separate fonts for headings, paragraphs, poetry, articles, navigation, buttons, and author profiles.
+- Adjust font sizes and line-height.
+- Adjust paragraph spacing.
+- Preview fonts using real Urdu text.
+- Save and restore typography settings.
+- Configure responsive font sizes where necessary.
+
+Include a preview using:
+
+**پیامِ ادب — اردو ادب، روایت سے نئی نسل تک**
+
+**ادب پڑھیں | اپنی تحریر بھیجیں**
+
+**آج کا شعر — آج کا لفظ**
+
+Ensure that selected fonts are actually loaded on the frontend and that settings persist after refreshing the website.
+
+# 4. AI-POWERED URDU QAFIYA FINDER
+
+Develop a dedicated feature called **AI قافیہ تلاش** or **AI Qafiya Finder**.
+
+This must be a genuinely useful tool for Urdu poets, not a static list of unrelated words.
+
+## 4.1 Main functionality
+
+The user enters an Urdu word, and the system returns relevant rhyming words.
+
+Example:
+
+Input: **قرار**
+
+Possible results may include:
+
+- بہار
+- نکھار
+- دیار
+- غبار
+- شمار
+
+These are illustrative examples. The tool must validate its results and rank words by actual Urdu rhyme compatibility.
+
+## 4.2 Search options
+
+Provide:
+
+- Search by a single Urdu word.
+- Search by a word appearing at the end of a poetic line.
+- Search for words with similar rhyming sounds.
+- Optional search by meter or وزن.
+- Filters for common, literary, and difficult vocabulary where reliable classification is available.
+
+## 4.3 Result information
+
+For each result, display:
+
+- Urdu word.
+- Meaning.
+- Rhyme relevance or sound similarity.
+- Example usage, where available.
+- A copy button.
+- A way to view more related words.
+
+Provide an optional Urdu explanation of why a word matches the requested rhyme.
+
+## 4.4 Accuracy requirements
+
+Do not simply return words that share a few letters.
+
+Urdu rhyme depends on pronunciation, sound patterns, and poetic conventions. Implement phonetic normalization and appropriate Urdu rhyme matching.
+
+Use a curated Urdu lexicon and a reliable phonetic or linguistic matching method. AI may assist in ranking or explaining results, but it must not fabricate words or meanings.
+
+If the tool cannot verify a result, mark it as uncertain rather than presenting it as a confirmed rhyme.
+
+## 4.5 Optional Behr and Wazan support
+
+Provide a separate option for checking poetic meter where technically feasible.
+
+Allow users to submit a misra or sher and receive a proposed meter analysis.
+
+Clearly indicate that automatic meter analysis may require human verification, particularly for Urdu pronunciation, diacritics, and poetic variations.
+
+Keep the Qafiya Finder and meter checker as distinct tools so that users understand their different purposes.
+
+## 4.6 Admin controls
+
+Provide settings for:
+
+- AI provider configuration, where required.
+- API keys stored securely on the server.
+- Usage limits and rate limiting.
+- Error handling.
+- Available dictionaries and linguistic datasets.
+- Cost controls where applicable.
+
+Do not expose private API keys in frontend code.
+
+If an external AI service is not configured, the tool should still offer any implemented dictionary-based rhyme matching instead of displaying a fake AI response.
+
+# 5. AI-ASSISTED URDU DICTIONARY
+
+Create a dedicated section called **AI اردو لغت**.
+
+It should help users understand Urdu words and literary vocabulary.
+
+## 5.1 Search functionality
+
+Allow users to search for an Urdu word using:
+
+- Urdu script.
+- Roman Urdu, where supported.
+- English transliteration or an English equivalent, where supported.
+
+Provide spelling normalization for common Urdu input variations without silently changing the intended word.
+
+## 5.2 Dictionary result page
+
+For each word, display available information such as:
+
+- Urdu word.
+- Correct spelling.
+- Meaning in simple Urdu.
+- English meaning.
+- Roman Urdu transliteration.
+- Pronunciation guidance.
+- Part of speech, where known.
+- Synonyms.
+- Antonyms.
+- Example sentences.
+- Literary usage.
+- Related words.
+
+Where reliable references are available, include the source or dictionary attribution.
+
+Clearly distinguish verified dictionary definitions from AI-generated explanations. Do not fabricate quotations, etymologies, or authoritative references.
+
+## 5.3 Literary vocabulary
+
+Make the dictionary particularly useful for Urdu poets and writers.
+
+Where reliable information exists, include:
+
+- Difficult Urdu words.
+- Literary expressions.
+- Persian and Arabic loanwords used in Urdu.
+- Common poetic vocabulary.
+- Related words useful for composition.
+- Words with similar meanings but different usage.
+
+## 5.4 Admin controls
+
+Allow authorized administrators to manage verified dictionary entries, correct definitions, add vocabulary, and review user suggestions.
+
+Save approved entries in a searchable database so common searches do not require an AI request every time.
+
+# 6. CONTRIBUTOR ACCOUNTS AND PUBLIC AUTHOR PROFILES
+
+Every published poem or article must display its author's name.
+
+The author's name must be clickable and open a dedicated public profile page.
+
+## 6.1 Contributor profile
+
+Each contributor should be able to manage:
+
+- Full name.
+- Pen name or takhallus.
+- Profile photograph.
+- Biography (BIO).
+- Optional literary interests.
+- Published poetry.
+- Published articles.
+- Other approved contributions.
+
+Provide a unique profile URL for each author.
+
+## 6.2 Submission workflow
+
+When someone submits an article or poem, allow them to create a contributor account or connect the submission to an existing account.
+
+Prevent duplicate profiles where possible.
+
+When an editor approves and publishes the submission, automatically display the correct author's name and link to their profile.
+
+Keep unapproved submissions private until authorized publication.
+
+Contributors may edit their own permitted profile information but must not be able to change other users' profiles or access administrative settings.
+
+## 6.3 Existing content
+
+Provide a way for administrators to assign authors to existing published works.
+
+Do not invent missing author information. If the author is unknown, allow an explicitly unattributed publication.
+
+# 7. ADVERTISEMENT MANAGEMENT SYSTEM
+
+Redesign the advertisement system and manage it through the admin panel.
+
+## 7.1 Advertisement positions
+
+Provide configurable advertisement slots for:
+
+- Left side of the main content area.
+- Right side of the main content area.
+- Existing advertisement positions elsewhere on the website.
+- Additional placements that the administrator intentionally enables.
+
+Use the available empty side spaces for vertical advertisements on desktop where appropriate.
+
+On mobile, reposition or resize advertisements so they do not obstruct content.
+
+## 7.2 Poster size settings
+
+For each advertisement slot, provide:
+
+- Recommended poster width and height.
+- Custom width and height settings.
+- Poster upload and replacement.
+- Image preview.
+- Optional destination URL.
+- Enable/disable controls.
+- Display order.
+- Optional start and end dates.
+
+Clearly show the recommended dimensions so that advertisers can prepare correctly sized posters.
+
+Keep advertisements separate from the logo, hero thumbnail, navigation, and literary text.
+
+Do not create overlapping advertisements or reserve excessive empty space when an advertisement is not configured.
+
+# 8. COMPLETE ADMIN PANEL
+
+Upgrade the existing admin panel into a central content and website management system.
+
+Create clearly separated management pages for:
+
+1. Homepage and hero thumbnail.
+2. Featured poets and writers.
+3. Today's Verse.
+4. Word of the Day.
+5. Latest poetry.
+6. Latest articles.
+7. Popular content.
+8. New books.
+9. Literary competitions.
+10. Advertisement management.
+11. Urdu fonts and typography.
+12. Author accounts and profiles.
+13. AI Qafiya Finder settings.
+14. Urdu dictionary management.
+15. Submission approvals.
+16. About Us.
+17. Contact Us.
+18. Complaints and feedback.
+19. Website navigation and footer.
+20. General website settings.
+
+Provide appropriate edit, save, preview, publish, unpublish, reorder, and visibility controls according to each feature.
+
+All changes must connect to real application data. Do not create decorative admin controls that do not save or affect the website.
+
+Preserve existing authentication and role permissions. Only authorized administrators should be able to change global settings or approve publications.
+
+# 9. ABOUT US — WEBSITE PURPOSE AND MISSION
+
+Create a complete, professional About Us page in both Urdu and English where appropriate.
+
+Use the following as the basis of the Urdu introduction:
+
+**پیامِ ادب کے بارے میں**
+
+پیامِ ادب اردو زبان و ادب کے فروغ، ادبی ورثے کے تحفظ اور نئی نسل میں مطالعے، تخلیقی صلاحیت اور ادبی ذوق کو پروان چڑھانے کے مقصد سے قائم کیا گیا ایک ڈیجیٹل ادبی پلیٹ فارم ہے۔ اس کا مقصد شاعروں، ادیبوں، طلبہ، محققین اور اردو سے محبت کرنے والے قارئین کو ایک ایسا پلیٹ فارم فراہم کرنا ہے جہاں وہ معیاری ادبی تحریریں پڑھ سکیں، اپنی تخلیقات پیش کر سکیں اور اردو ادب کی مختلف اصناف سے استفادہ کر سکیں۔
+
+پیامِ ادب پر شاعری، مضامین، ادبی تحریریں، منتخب کتب اور دیگر مفید ادبی مواد کو منظم انداز میں پیش کرنے کی کوشش کی جاتی ہے۔ یہ پلیٹ فارم نئی اور ابھرتی ہوئی ادبی صلاحیتوں کو متعارف کرانے، اہلِ قلم کی حوصلہ افزائی کرنے اور اردو کی روایت کو عصرِ حاضر کے تقاضوں سے ہم آہنگ کرنے کے لیے بنایا جا رہا ہے۔
+
+اس پلیٹ فارم کا ایک اہم مقصد جدید ٹیکنالوجی کو اردو ادب کے مفاد میں استعمال کرنا بھی ہے۔ اسی لیے قافیہ تلاش کرنے، الفاظ کے معانی سمجھنے اور ادبی مطالعے میں مدد دینے والے ڈیجیٹل ٹولز فراہم کیے جائیں، تاکہ قارئین اور تخلیق کاروں کو ایک ہی جگہ مفید سہولتیں میسر آ سکیں۔
+
+پیامِ ادب کا بنیادی پیغام ہے:
+
+**اردو ادب، روایت سے نئی نسل تک**
+
+The About Us page should explain:
+
+- Website purpose and mission.
+- Literary content and services.
+- Opportunities for contributors.
+- Editorial review and publication principles.
+- The role of digital tools in supporting Urdu literature.
+- How readers can participate.
+
+Do not invent founders, institutional affiliations, awards, publication statistics, or historical claims. Let the administrator edit the About Us content through the admin panel.
+
+# 10. CONTACT US — PROFESSIONAL CONTACT PAGE
+
+Create a well-designed Contact Us page in Urdu and English where appropriate.
+
+Include:
+
+- A welcoming introduction.
+- Contact form.
+- Name.
+- Email address.
+- Subject.
+- Message.
+- Optional category selection.
+- Submission confirmation.
+- Clear privacy notice.
+
+Possible contact categories:
+
+- General inquiry.
+- Article or poetry submission question.
+- Technical problem.
+- Partnership or collaboration.
+- Editorial inquiry.
+- Other.
+
+The administrator must be able to manage the contact details displayed on the website.
+
+Do not invent email addresses, telephone numbers, office addresses, or social media links. Display only verified contact information configured by the administrator.
+
+Store submitted messages securely and provide an admin inbox or management page for reviewing and responding to inquiries, subject to the available infrastructure.
+
+Add server-side validation, spam protection, and appropriate rate limits.
+
+# 11. COMPLAINTS AND SUGGESTIONS SYSTEM
+
+Create a dedicated page or clearly visible section for **شکایت اور اپنی رائے دیں**.
+
+Visitors should be able to submit complaints, suggestions, and feedback about the website.
+
+## 11.1 Form fields
+
+Include:
+
+- Name, optional where appropriate.
+- Email address, optional where appropriate.
+- Feedback type.
+- Subject.
+- Detailed message.
+- Optional reference to a specific article, poem, profile, or page.
+- Optional screenshot or attachment, if supported securely.
+
+Feedback types may include:
+
+- شکایت — Complaint.
+- تجویز — Suggestion.
+- ویب سائٹ کا مسئلہ — Website issue.
+- مواد سے متعلق رائے — Content feedback.
+- غلطی کی نشاندہی — Report an error.
+- دیگر — Other.
+
+## 11.2 User experience
+
+Provide a simple, accessible form in Urdu RTL layout.
+
+After submission, display a clear confirmation message. If a tracking reference is implemented, show the user a unique reference number.
+
+Do not promise that a complaint has been resolved merely because it has been submitted.
+
+## 11.3 Admin complaint management
+
+Provide an admin page where authorized staff can:
+
+- View incoming complaints and suggestions.
+- Open individual submissions.
+- Change status to New, Under Review, Resolved, or Rejected.
+- Add private internal notes.
+- Record a response where the system supports replies.
+- Filter and search submissions.
+- Mark spam or inappropriate submissions.
+- Delete records only with appropriate permissions.
+
+Keep internal notes private. Do not publish complaints or personal information publicly without explicit authorization.
+
+Add spam protection, input validation, access controls, and safe attachment handling.
+
+# 12. CONTENT SUBMISSION AND EDITORIAL MANAGEMENT
+
+Maintain a proper editorial workflow.
+
+Contributors must be able to submit poetry and articles through the existing submission page.
+
+The system should support these states:
+
+- Draft.
+- Submitted.
+- Under Review.
+- Approved.
+- Published.
+- Rejected.
+
+The admin or authorized editor should be able to review submissions, edit where permitted, approve or reject them, and publish approved content.
+
+Where feasible, provide a rejection explanation to the contributor.
+
+Preserve attribution and link every published work to the correct author profile.
+
+Do not automatically publish unreviewed user submissions.
+
+# 13. DESIGN CONSISTENCY AND RESPONSIVE LAYOUT
+
+Use a consistent design system throughout Payam-e-Adab.
+
+The website should feel like a premium Urdu literary publication rather than a generic blog.
+
+Requirements:
+
+- Elegant Urdu typography.
+- Proper RTL support.
+- Distinct section designs.
+- Consistent colours and spacing.
+- Clear navigation.
+- Accessible buttons and forms.
+- Responsive article and poetry cards.
+- Suitable image proportions.
+- Readable advertisement placements.
+- Well-organized author profiles.
+- A professional footer.
+- No overlapping text or broken layouts.
+
+Use the supplied logo and reference images where applicable. Do not replace the brand identity without authorization.
+
+# 14. DATABASE, SECURITY, AND FUNCTIONAL INTEGRATION
+
+Inspect the existing application before changing its data model.
+
+Reuse existing tables, accounts, and relationships wherever practical.
+
+Create only necessary additional fields or tables for:
+
+- Contributor profiles.
+- Author-to-publication relationships.
+- Font settings.
+- Advertisement configurations.
+- Dictionary entries.
+- Qafiya search data, where persistence is needed.
+- Contact messages.
+- Complaints and suggestions.
+- Editorial workflow, if not already implemented.
+
+Implement proper permissions, server-side validation, and secure storage of credentials.
+
+Never expose private AI API keys in client-side code.
+
+Do not delete existing content, replace real data with demo data, or create duplicate accounts during implementation.
+
+# 15. FINAL TESTING AND ACCEPTANCE CHECKLIST
+
+Before considering the project complete, verify all of the following:
+
+- The hero thumbnail is the first prominent homepage section.
+- Both hero buttons open the correct pages.
+- Featured poets and writers appear immediately below the hero.
+- Today's Verse and Word of the Day have separate, attractive designs.
+- Latest poetry and latest articles are clearly separated.
+- Popular content and new books appear in suitable positions.
+- Literary competitions appear near the bottom in the requested layout.
+- Urdu lines no longer overlap throughout the website.
+- Available Urdu fonts load correctly.
+- Font settings can be saved and applied.
+- The Qafiya Finder returns relevant Urdu rhymes.
+- The Urdu dictionary returns useful word information.
+- Published author names open the correct profile pages.
+- Contributors can manage their own permitted profile information.
+- Advertisement slots support configurable poster dimensions.
+- Admin changes persist after refreshing the website.
+- About Us and Contact Us contain editable, meaningful content.
+- Complaints and suggestions can be submitted and managed securely.
+- Existing published content and accounts remain intact.
+- The website works on desktop, tablet, and mobile.
+- No new feature is presented as working when its backend functionality has not been implemented.
+
+## FINAL PRIORITY
+
+Implement the changes in a controlled order:
+
+**Phase 1:** Fix Urdu typography, the hero thumbnail, homepage layout, and section order.
+
+**Phase 2:** Implement the Urdu font manager, advertisement management, contributor profiles, and author attribution.
+
+**Phase 3:** Develop and test the AI Qafiya Finder and Urdu dictionary.
+
+**Phase 4:** Complete About Us, Contact Us, complaints, suggestions, and editorial management.
+
+**Phase 5:** Test the admin panel, data persistence, security, and responsive layouts.
+
+Make these changes directly to the existing Payam-e-Adab website. Preserve all working features, use real application data, and provide a complete, functional implementation rather than a visual-only redesign.# Additional Feature: Interactive Digital Book Reader and Book Details Page
+
+Implement a complete digital book reading system on the existing Payam-e-Adab website.
+
+The book section must provide a realistic, user-friendly reading experience. When a visitor clicks a book, they should see the book details alongside an interactive digital book reader.
+
+## 1. Book Details Page
+
+When a visitor clicks a book cover in the نئی کتب section, open a dedicated book details page.
+
+Use a professional two-column layout on desktop:
+
+**Left side: Book information**
+
+Display the following information wherever available:
+
+- Book cover.
+- Full book title.
+- Author's name.
+- Translator's name, if applicable.
+- Editor's name, if applicable.
+- Language.
+- Literary category or genre.
+- Main topic and subject.
+- Detailed description of the book.
+- What the book contains.
+- Important chapters or topics covered.
+- Intended readership.
+- Publication date and publisher, if known.
+- Edition and page count, if available.
+- Table of contents, where available.
+- Reading or download options, depending on permissions.
+
+**Right side: Digital book preview**
+
+Display an interactive book reader or a realistic book preview with page-turning functionality.
+
+On mobile, rearrange the layout vertically so that the book information and reader remain easy to use.
+
+Do not invent missing bibliographic information. Display only verified details or information entered by the administrator.
+
+## 2. Realistic Digital Book Reader
+
+When the visitor opens a readable book, present it like a real digital book rather than a simple image gallery.
+
+Implement the following controls:
+
+- **اگلا صفحہ** — Next Page.
+- **پچھلا صفحہ** — Previous Page.
+- **پہلا صفحہ** — First Page.
+- **آخری صفحہ** — Last Page.
+- Current page number.
+- Total page count.
+- Page navigation or page-number selection.
+- Full-screen reading mode.
+- Zoom in and zoom out, where supported.
+- Fit-to-page and fit-to-width options.
+- Exit reader or return to book details.
+
+Provide visible next-page and previous-page arrows on the sides of the book.
+
+Where supported, allow readers to turn pages using:
+- Clicking the page-turn arrows.
+- Keyboard arrow keys.
+- Swiping left or right on touchscreens.
+
+For Urdu books, preserve the original right-to-left reading direction. The page-turn controls must be intuitive for Urdu readers.
+
+Display the book as a two-page spread on suitable desktop screens when the format supports it. Use a single readable page on smaller screens.
+
+## 3. Realistic Book Appearance
+
+Create an elegant book-like reading interface featuring:
+
+- A cover page.
+- Proper page proportions.
+- A subtle central spine or binding effect in two-page mode.
+- Appropriate margins.
+- Readable text.
+- Page-turn animation where technically supported.
+- A clean background that does not distract from the book.
+
+Do not simulate pages using random text or unrelated images. Display the actual uploaded book content.
+
+If the book is available as a PDF, use a reliable PDF rendering system or a suitable page-turning viewer that renders its real pages.
+
+If the book is available as structured text, create properly paginated pages from the actual content.
+
+Preserve the original Urdu text, typography, images, page order, and layout as accurately as possible.
+
+## 4. Book Cover Click Interaction
+
+When a visitor clicks a book cover:
+
+1. Open that book's dedicated details page.
+2. Display the book cover and its verified details.
+3. Explain the book's subject and purpose.
+4. Show what topics and chapters it contains.
+5. Provide an option to start reading.
+6. Open the interactive reader when the visitor selects **کتاب پڑھیں** or **آن لائن مطالعہ**.
+
+Keep the book details accessible while reading. Provide a clear option to return to the details page.
+
+Where practical, allow the visitor to return to the same book and page they were reading during the current session.
+
+## 5. Table of Contents and Chapter Navigation
+
+If the book contains chapters or a table of contents, display them in a dedicated navigation panel.
+
+Readers should be able to:
+
+- View chapter titles.
+- Click a chapter to open the corresponding page.
+- See the current reading position.
+- Return to the table of contents.
+- Navigate between chapters without losing their place unnecessarily.
+
+For scanned PDFs, use an existing table of contents if available. If none exists, allow an administrator to add chapter titles and page numbers manually.
+
+Do not invent chapter names or page references.
+
+## 6. Urdu Reading Support
+
+The book reader must support Urdu and other languages used by the uploaded books.
+
+Requirements:
+
+- Correct RTL text direction.
+- Suitable Urdu fonts.
+- Proper line spacing.
+- Clear page margins.
+- No overlapping lines.
+- Responsive page dimensions.
+- Correct display of Arabic and Persian text where present.
+
+For PDF books, preserve the original page layout whenever possible rather than extracting and reformatting text unnecessarily.
+
+For reflowable text books, provide appropriate reading typography and font-size controls.
+
+## 7. Admin Panel: Book Management
+
+Add a dedicated **کتب کا انتظام** section to the existing admin panel.
+
+Administrators should be able to:
+
+- Add a new book.
+- Upload or replace its cover.
+- Upload a PDF or another supported book format.
+- Enter the title and author.
+- Add the book description.
+- Explain the book's subject and purpose.
+- List its main topics and chapters.
+- Enter verified publication details.
+- Add or edit the table of contents.
+- Set the book's language and category.
+- Preview the book before publication.
+- Publish, unpublish, or update the book.
+- Control its visibility in the نئی کتب section.
+- Set the display order.
+- Choose whether reading, downloading, or both are permitted.
+
+All uploaded files must be stored securely and connected to the correct book record.
+
+## 8. Download and Access Permissions
+
+If the administrator permits downloading, display a **کتاب ڈاؤن لوڈ کریں** option.
+
+If downloading is not permitted, allow only the authorized reading experience.
+
+Do not make copyrighted books publicly downloadable without appropriate permission. Support administrator-configured access restrictions where required.
+
+## 9. Performance and Accessibility
+
+Make the reader usable on desktop, tablet, and mobile.
+
+Use page-by-page loading or other suitable optimizations for large books.
+
+Provide clear loading indicators, meaningful error messages, and a fallback option to open the original PDF when the interactive viewer cannot render a file.
+
+Ensure that navigation buttons are accessible and that page controls work with a keyboard where supported.
+
+## 10. Final Testing Requirements
+
+Verify that:
+
+- Clicking a book opens the correct details page.
+- Book information appears beside the reader on desktop.
+- The actual book pages are displayed.
+- Next and Previous buttons work correctly.
+- Page numbers update correctly.
+- The reader supports Urdu RTL layouts.
+- Chapter links open the correct pages when available.
+- Full-screen and zoom controls work where supported.
+- Admin book changes are saved permanently.
+- Existing books and website content remain intact.
+
+**Important:** Implement this as a real digital book reader integrated into the existing Payam-e-Adab website, not as a decorative book mockup. Use actual uploaded book files and preserve their original content.

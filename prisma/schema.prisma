@@ -1,0 +1,314 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id                 String    @id @default(cuid())
+  email              String    @unique
+  passwordHash       String
+  name               String
+  penName            String?
+  bio                String?
+  photoUrl           String?
+  role               String    @default("USER") // USER | ADMIN
+  status             String    @default("ACTIVE") // ACTIVE | SUSPENDED
+  emailVerified      Boolean   @default(true)
+  verifyToken        String?
+  verifyTokenExpiry  DateTime?
+  permissions        String    @default("*") // admin module keys CSV or "*" (all)
+  lastLoginAt        DateTime?
+  mustChangePassword Boolean   @default(false)
+  resetToken         String?
+  resetTokenExpiry   DateTime?
+  createdAt          DateTime  @default(now())
+  updatedAt          DateTime  @updatedAt
+  poems              Poem[]
+  articles           Article[]
+  news               News[]
+  comments           Comment[]
+  likes              Like[]
+}
+
+// status: DRAFT | PENDING | REVISION | APPROVED | PUBLISHED | REJECTED | SCHEDULED | ARCHIVED
+model Poem {
+  id            String    @id @default(cuid())
+  title         String
+  content       String
+  category      String    @default("غزل")
+  poetName      String?
+  poetId        String?
+  userId        String?
+  user          User?     @relation(fields: [userId], references: [id])
+  coverUrl      String?
+  topicImageUrl String?
+  tags          String?
+  status        String    @default("PENDING")
+  feedback      String?
+  featured      Boolean   @default(false)
+  views         Int       @default(0)
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  publishedAt   DateTime?
+  publishAt     DateTime? // scheduled publication time
+}
+
+model Poet {
+  id        String   @id @default(cuid())
+  name      String
+  takhallus String?
+  photoUrl  String?
+  bio       String?
+  era       String?
+  style     String?
+  works     String?
+  awards    String?
+  featured  Boolean  @default(false)
+  createdAt DateTime @default(now())
+}
+
+model Article {
+  id            String    @id @default(cuid())
+  title         String
+  excerpt       String?
+  content       String
+  category      String    @default("ادبی مضامین")
+  authorName    String?
+  userId        String?
+  user          User?     @relation(fields: [userId], references: [id])
+  coverUrl      String?
+  topicImageUrl String?
+  tags          String?
+  status        String    @default("PENDING")
+  feedback      String?
+  featured      Boolean   @default(false)
+  views         Int       @default(0)
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  publishedAt   DateTime?
+  publishAt     DateTime? // scheduled publication time
+}
+
+// status: DRAFT | PENDING | REVISION | APPROVED | PUBLISHED | REJECTED | SCHEDULED | ARCHIVED
+model News {
+  id            String    @id @default(cuid())
+  title         String
+  excerpt       String?
+  content       String
+  sourceName    String?
+  category      String    @default("ادبی خبریں")
+  authorName    String?
+  userId        String?
+  user          User?     @relation(fields: [userId], references: [id])
+  coverUrl      String?
+  topicImageUrl String?
+  tags          String?
+  status        String    @default("PENDING")
+  feedback      String?
+  featured      Boolean   @default(false)
+  views         Int       @default(0)
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  publishedAt   DateTime?
+  publishAt     DateTime? // scheduled publication time
+}
+
+model Comment {
+  id           String   @id @default(cuid())
+  resourceType String // poem | article | book | news
+  resourceId   String
+  userId       String?
+  user         User?    @relation(fields: [userId], references: [id])
+  guestName    String?
+  guestEmail   String?
+  body         String
+  status       String   @default("PENDING") // PENDING | APPROVED | REJECTED
+  createdAt    DateTime @default(now())
+}
+
+model Like {
+  id           String   @id @default(cuid())
+  resourceType String // poem | article | book | news
+  resourceId   String
+  userId       String?
+  user         User?    @relation(fields: [userId], references: [id])
+  visitorId    String
+  createdAt    DateTime @default(now())
+}
+
+model PageView {
+  id           String   @id @default(cuid())
+  path         String
+  resourceType String?
+  resourceId   String?
+  visitorId    String?
+  referrer     String?
+  day          String // YYYY-MM-DD (for fast daily aggregation)
+  createdAt    DateTime @default(now())
+}
+
+// soft-delete snapshot for "Recently Deleted Content" restore
+model DeletedItem {
+  id           String   @id @default(cuid())
+  resourceType String
+  resourceId   String
+  title        String
+  payload      String // full JSON snapshot
+  deletedBy    String?
+  createdAt    DateTime @default(now())
+}
+
+model Book {
+  id          String   @id @default(cuid())
+  title       String
+  author      String
+  translator  String?
+  category    String   @default("شاعری")
+  description String?
+  coverUrl    String?
+  year        String?
+  pages       String?
+  featured    Boolean  @default(false)
+  views       Int      @default(0)
+  createdAt   DateTime @default(now())
+}
+
+model NewspaperEdition {
+  id            String   @id @default(cuid())
+  title         String
+  editionNumber String?
+  weekLabel     String?
+  pdfUrl        String
+  coverUrl      String?
+  notes         String?
+  published     Boolean  @default(false)
+  createdAt     DateTime @default(now())
+}
+
+model WordOfDay {
+  id             String    @id @default(cuid())
+  word           String
+  meaning        String
+  englishMeaning String?
+  synonyms       String?
+  antonyms       String?
+  example        String?
+  usage          String?
+  active         Boolean   @default(false)
+  date           DateTime?
+}
+
+model DailySher {
+  id       String    @id @default(cuid())
+  text     String
+  poetName String
+  active   Boolean   @default(false)
+  date     DateTime?
+}
+
+model Competition {
+  id          String    @id @default(cuid())
+  title       String
+  description String
+  rules       String?
+  startDate   DateTime?
+  endDate     DateTime?
+  posterUrl   String?
+  posterSize  String    @default("A4 عمودی (2480×3508 پکسل، 300 DPI)")
+  active      Boolean   @default(true)
+  resultNote  String?
+  createdAt   DateTime  @default(now())
+}
+
+model Event {
+  id          String    @id @default(cuid())
+  title       String
+  description String
+  date        DateTime?
+  time        String?
+  venue       String?
+  eventType   String    @default("مشاعرہ")
+  posterUrl   String?
+  posterSize  String    @default("A4 زمینی (3508×2480 پکسل، 300 DPI)")
+  createdAt   DateTime  @default(now())
+}
+
+// position: HERO | SIDE | PROMO
+model Banner {
+  id              String   @id @default(cuid())
+  title           String
+  imageUrl        String
+  linkUrl         String?
+  position        String   @default("SIDE")
+  recommendedSize String?
+  active          Boolean  @default(true)
+  sortOrder       Int      @default(0)
+  createdAt       DateTime @default(now())
+}
+
+model QafiyaEntry {
+  id      String  @id @default(cuid())
+  word    String
+  meaning String?
+  pattern String?
+  notes   String?
+  rhymes  String  @default("[]") // JSON array of rhyming words
+}
+
+model Behr {
+  id      String  @id @default(cuid())
+  name    String
+  nameEn  String?
+  arkan   String
+  pattern String
+  example String?
+  notes   String?
+}
+
+model Setting {
+  key   String @id
+  value String
+}
+
+// Homepage side advertisements — admin-managed only
+model Advertisement {
+  id        String   @id @default(cuid())
+  title     String
+  imageUrl  String
+  linkUrl   String?
+  slot      String   @default("LEFT") // LEFT | RIGHT
+  width     String?  // optional per-ad width hint in px
+  active    Boolean  @default(true)
+  sortOrder Int      @default(0)
+  clicks    Int      @default(0)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+// Outgoing email notifications — every send attempt is recorded (sent/failed/pending)
+model MailLog {
+  id          String    @id @default(cuid())
+  toEmail     String
+  subject     String
+  bodyHtml    String
+  kind        String    // PUBLISHED | APPROVED | REJECTED | REVISION | PENDING | VERIFY | RESET | TEST
+  status      String    @default("PENDING") // SENT | FAILED | PENDING
+  error       String?
+  relatedType String?   // poem | article | news | user
+  relatedId   String?
+  attempts    Int       @default(0)
+  createdAt   DateTime  @default(now())
+  sentAt      DateTime?
+}
+
+model ActivityLog {
+  id         String   @id @default(cuid())
+  action     String
+  detail     String?
+  actorEmail String?
+  createdAt  DateTime @default(now())
+}
